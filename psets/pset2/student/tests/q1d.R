@@ -1,5 +1,5 @@
 test = list(
-  name = "q1cii",
+  name = "q1d",
   cases = list(
     ottr::TestCase$new(
       hidden = FALSE,

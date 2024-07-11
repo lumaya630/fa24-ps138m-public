@@ -1,13 +1,13 @@
 test = list(
-  name = "q2b",
+  name = "q4b",
   cases = list(
     ottr::TestCase$new(
       hidden = FALSE,
       name = NA,
-      points = 1.0,
+      points = 2.0,
       code = {
-        sol_column_names <- colnames(ctdc)
-        question.correct <- all.equal(column_names, sol_column_names)
+        sol_forms_summary <- summary(ctdc_subset)
+        question.correct <- all.equal(forms_summary, sol_forms_summary)
         testthat::expect_true(question.correct,
              info = "Not quite right. Try again!")
       }

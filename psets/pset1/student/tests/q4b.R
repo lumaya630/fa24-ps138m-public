@@ -6,7 +6,7 @@ test = list(
       name = NA,
       points = 2.0,
       code = {
-        sol_forms_summary <- summary(ctdc_subset)
+        sol_forms_summary <- summary(forms_ht)
         question.correct <- all.equal(forms_summary, sol_forms_summary)
         testthat::expect_true(question.correct,
              info = "Not quite right. Try again!")

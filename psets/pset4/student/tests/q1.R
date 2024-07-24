@@ -12,8 +12,8 @@ test = list(
         testthat::expect_true(is.logical(ii),
              info = "ii is not a boolean")
 
-        testthat::expect_true(is.logical(iii),
-             info = "iii is not a boolean")
+        testthat::expect_true(is.character(iii),
+             info = "iii is not a string")
       }
     )
   )

@@ -7,7 +7,7 @@ test = list(
       points = 6.0,
       code = {
         # check country estimate
-        gpt_prev_1000.soln <- df.gsi_scores %>% filter(country == chatGPT_target) %>% select(prev_per_1000) %>% pull()
+        gpt_prev_1000.soln <- df_gsi %>% filter(country == chatGPT_target) %>% select(prev_per_1000) %>% pull()
         question.correct_estimate <-  all.equal(gpt_prev_1000, gpt_prev_1000.soln)
         testthat::expect_true(question.correct_estimate,
              info = "'gpt_target_prev_1000' is not right, try again")
@@ -18,7 +18,7 @@ test = list(
 
 
         # check dataframe
-        gsi_sort_by_prev_1000.soln <- df.gsi_scores %>% arrange(desc(prev_per_1000))
+        gsi_sort_by_prev_1000.soln <- df_gsi %>% arrange(desc(prev_per_1000))
         question.correct_df <- all.equal(gsi_sort_by_prev_1000,gsi_sort_by_prev_1000.soln)
 
         testthat::expect_true(question.correct_df,

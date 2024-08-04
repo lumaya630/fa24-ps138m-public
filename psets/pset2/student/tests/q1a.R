@@ -6,9 +6,9 @@ test = list(
       name = NA,
       points = 1.0,
       code = {
-        question.correct <- chatGPT_target %in% gsi_countries 
+        question.correct <- chatGPT_target == "India" 
         testthat::expect_true(question.correct,
-             info = "Make sure the spelling matches exactly the countries in the code output above")
+             info = "Check your spelling and capitalization matches 'India'")
       }
     )
   )

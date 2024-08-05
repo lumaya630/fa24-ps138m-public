@@ -4,7 +4,7 @@ test = list(
     ottr::TestCase$new(
       hidden = FALSE,
       name = NA,
-      points = 2.0,
+      points = 4.0,
       code = {
         mod1.soln <-  lm(htflowsunodc ~ 
                               prostitutionlaw + prostitutionbrothel +  

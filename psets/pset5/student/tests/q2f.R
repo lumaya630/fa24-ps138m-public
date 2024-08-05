@@ -4,7 +4,7 @@ test = list(
     ottr::TestCase$new(
       hidden = FALSE,
       name = NA,
-      points = 1.5,
+      points = 0.5,
       code = {
         answers <- c(d)
         question.correct_b <- all(str_length(answers) == 1)

@@ -4,7 +4,7 @@ test = list(
     ottr::TestCase$new(
       hidden = FALSE,
       name = NA,
-      points = 0,
+      points = 1,
       code = {
         # check columns equal
         df.soln <- ctdc %>%

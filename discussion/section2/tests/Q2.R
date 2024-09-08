@@ -10,8 +10,8 @@ test = list(
         ctdc_confirmed.soln <- ctdc %>% filter(isSexualExploit == 1 | isForcedLabour == 1 | isOtherExploit == 1) 
         confirmed.correct <- all.equal(ctdc_confirmed.soln, ctdc_confirmed)
 
-        ctdc_means_sc.soln <- ctdc_confirmed.soln %>% select(starts_with("means"))
-        question.correct <- all.equal(ctdc_means_sc.soln, ctdc_means_sc)
+        ctdc_means3.soln <- ctdc_confirmed.soln %>% select(starts_with("means"))
+        question.correct <- all.equal(ctdc_means3.soln, ctdc_means3)
 
         # tests
         testthat::expect_true(confirmed.correct,

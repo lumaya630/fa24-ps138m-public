@@ -4,19 +4,24 @@ test = list(
     ottr::TestCase$new(
       hidden = FALSE,
       name = NA,
-      points = 4.0,
+      points = 1,
       code = {
-        mod1.soln <-  lm(htflowsunodc ~ 
-                              prostitutionlaw + prostitutionbrothel +  
-                              ruleWB_m + pop_ln + gdp_pc_const_ppp_ln+
-                              democracy + stockmigrants1990_ln +
-                              catholic2 + reg_east_asia + 
-                              reg_west_europe + reg_latam + 
-                              reg_mideast + reg_sasia + reg_ssa, 
-                              data = cho_q3)
-        question.correct <-  all.equal(mod1, mod1.soln)
+        cho_legal.soln <- cho %>% filter(prostitutionlaw == 1)
+        n_countries.soln <- nrow(cho_legal.soln)
+
+        question.correct <-  all.equal(cho_legal, cho_legal.soln)
         testthat::expect_true(question.correct,
-             info = "Try again") 
+             info = "Step (i) is incorrect") 
+      }
+    ),
+    ottr::TestCase$new(
+      hidden = FALSE,
+      name = NA,
+      points = 1,
+      code = {
+        question.correct2 <-  all.equal(n_countries, n_countries.soln)
+        testthat::expect_true(question.correct2,
+             info = "Step (ii) is incorrect")
       }
     )
   )

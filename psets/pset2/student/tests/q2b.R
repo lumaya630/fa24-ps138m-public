@@ -4,16 +4,20 @@ test = list(
     ottr::TestCase$new(
       hidden = FALSE,
       name = NA,
-      points = 1.0,
+      points = 0,
       code = {
-        answers <- c(i, ii)
+        answers <- c(q2b_i, q2b_ii,q2b_iii)
         question.correct_b <- all(str_length(answers) == 1)
         question.correct_a <- all(str_detect(answers,"[[:upper:]]"))
+        question.correct_c <- all(str_detect(answers,"A|B"))
 
-        testthat::expect_true(question.correct_b,
-             info = "Must be in upper-case")
+
         testthat::expect_true(question.correct_a,
-             info = "Please format as a single letter")
+             info = "Must be in upper-case") # IGNORE
+        testthat::expect_true(question.correct_b,
+             info = "Please format as a single letter") # IGNORE
+        testthat::expect_true(question.correct_c,
+             info = "One of your answers is not A or B")# IGNORE
       }
     )
   )

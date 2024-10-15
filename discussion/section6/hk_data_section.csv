@@ -1,708 +1,696 @@
-id,treated,score,age,religion,educ,gender,livein,ud_freedom_movement,nationality
-1,0,0,40,777,Elementary (usually until 12 years old),Female,Yes,Refused to answer,Indonesia
-2,0,1,25,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-3,0,1,37,4,Elementary (usually until 12 years old),Female,Yes,Refused to answer,Indonesia
-4,0,1,23,4,Secondary (usually until 18 years old),Female,Yes,Rarely,Indonesia
-5,0,0.25,25,4,Secondary (usually until 18 years old),Female,Yes,Sometimes,Indonesia
-6,0,1,29,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-7,1,1,43,2,Secondary (usually until 18 years old),Female,Yes,Never,The Philippines
-8,1,1,35,2,Secondary (usually until 18 years old),Female,Yes,Never,The Philippines
-9,0,0.4,38,2,College/University,Female,Yes,Never,The Philippines
-10,0,0.2,43,2,Secondary (usually until 18 years old),Female,Yes,Never,The Philippines
-11,1,1,31,3,College/University,Female,Yes,"Yes, all of the time",The Philippines
-12,1,1,46,2,College/University,Female,Yes,Never,The Philippines
-13,0,1,55,2,College/University,Female,Yes,Never,The Philippines
-14,1,1,38,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-15,1,0.8,36,4,College/University,Female,Yes,Sometimes,Indonesia
-16,1,1,38,4,Elementary (usually until 12 years old),Female,Yes,Sometimes,Indonesia
-17,0,0.6,34,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-18,0,0,27,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-19,0,0.25,26,4,Elementary (usually until 12 years old),Female,Yes,Rarely,Indonesia
-20,1,1,32,4,College/University,Female,Yes,Never,Indonesia
-21,0,0.4,31,4,Elementary (usually until 12 years old),Female,Yes,Never,Indonesia
-22,0,0,29,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-23,1,0.25,25,4,Secondary (usually until 18 years old),Female,Yes,Sometimes,Indonesia
-24,1,1,35,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-25,1,0.75,45,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-26,0,0.4,40,4,Elementary (usually until 12 years old),Female,Yes,Sometimes,Indonesia
-27,1,0.2,30,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-28,1,1,23,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-29,0,0,35,777,Elementary (usually until 12 years old),Female,Yes,Never,Indonesia
-30,0,0.8,47,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-31,1,0.8,30,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-32,1,0,23,0,Secondary (usually until 18 years old),Female,Yes,Sometimes,Indonesia
-33,0,0.8,30,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-34,0,1,40,7,Secondary (usually until 18 years old),Female,Yes,Sometimes,Indonesia
-35,0,0.8,46,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-36,0,0.6,33,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-37,0,0.4,36,4,Secondary (usually until 18 years old),Female,Yes,Rarely,Indonesia
-38,0,0.2,28,4,Secondary (usually until 18 years old),Female,Yes,Sometimes,Indonesia
-39,0,0.6,40,2,College/University,Female,Yes,Never,The Philippines
-40,1,0.25,40,2,College/University,Female,Yes,Never,The Philippines
-41,1,0.6,39,2,College/University,Female,Yes,Never,The Philippines
-42,1,1,31,2,Secondary (usually until 18 years old),Female,Yes,Never,The Philippines
-43,1,1,30,777,Postgraduate studies (Masters or Phd),Female,Yes,Never,The Philippines
-44,0,0.5,32,3,College/University,Female,Yes,Never,The Philippines
-45,0,0.5,42,777,College/University,Female,Yes,Never,The Philippines
-46,1,0,36,2,Secondary (usually until 18 years old),Female,Yes,Refused to answer,The Philippines
-47,1,0.4,31,3,Secondary (usually until 18 years old),Female,Yes,Sometimes,The Philippines
-48,1,0.4,34,2,Secondary (usually until 18 years old),Female,Yes,Refused to answer,The Philippines
-49,1,0.6,54,2,No completed formal education,Female,Yes,"Yes, all of the time",The Philippines
-50,1,0.4,59,7,College/University,Female,Yes,"Yes, all of the time",The Philippines
-51,0,0.25,30,8,College/University,Female,Yes,Refused to answer,The Philippines
-52,1,1,34,4,College/University,Female,Yes,"Yes, all of the time",Indonesia
-53,1,0.8,34,777,Secondary (usually until 18 years old),Female,Yes,Never,The Philippines
-54,1,1,35,2,College/University,Female,Yes,Never,The Philippines
-55,1,0.2,30,2,College/University,Female,Yes,Never,The Philippines
-56,0,1,38,2,Secondary (usually until 18 years old),Female,Yes,Never,The Philippines
-57,1,1,42,3,College/University,Female,Yes,"Yes, all of the time",The Philippines
-58,1,1,43,4,Elementary (usually until 12 years old),Female,Yes,Never,Indonesia
-59,1,1,50,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-60,1,0.8,42,4,Secondary (usually until 18 years old),Female,Yes,Sometimes,Indonesia
-61,0,0.75,35,8,Elementary (usually until 12 years old),Female,Yes,Never,Indonesia
-62,0,0.6,26,4,Secondary (usually until 18 years old),Female,Yes,Sometimes,Indonesia
-63,0,0.8,28,2,Elementary (usually until 12 years old),Female,Yes,Never,Nepal
-64,0,0.8,47,4,Elementary (usually until 12 years old),Female,Yes,Never,Indonesia
-65,1,0.75,27,777,Secondary (usually until 18 years old),Female,Yes,Often,Indonesia
-66,1,0.25,29,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-67,0,0.25,47,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-68,1,1,36,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-69,1,0,28,4,Postgraduate studies (Masters or Phd),Female,Yes,Often,Indonesia
-70,1,0.8,25,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-71,0,0.6,26,7,College/University,Female,Yes,"Yes, all of the time",The Philippines
-72,0,0.6,31,3,College/University,Female,Yes,Never,The Philippines
-73,1,0.8,29,3,Secondary (usually until 18 years old),Female,Yes,Sometimes,The Philippines
-74,1,0.8,43,2,Secondary (usually until 18 years old),Female,Yes,Never,The Philippines
-75,0,1,40,777,College/University,Female,Yes,Refused to answer,The Philippines
-76,0,0.2,43,3,College/University,Female,Yes,Sometimes,The Philippines
-77,1,0.75,36,3,Secondary (usually until 18 years old),Female,Yes,Refused to answer,The Philippines
-78,0,1,33,2,Secondary (usually until 18 years old),Female,Yes,Rarely,The Philippines
-79,0,0.4,36,2,Secondary (usually until 18 years old),Female,Yes,Often,The Philippines
-80,1,0.2,35,2,College/University,Female,Yes,Never,The Philippines
-81,0,0.6,27,3,College/University,Female,Yes,Rarely,The Philippines
-82,0,0.6,29,2,Secondary (usually until 18 years old),Female,Yes,Rarely,The Philippines
-83,1,0.2,38,2,Refused to answer,Female,Yes,Rarely,The Philippines
-84,1,0.75,50,3,College/University,Female,Yes,Refused to answer,The Philippines
-85,1,0.8,34,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-86,1,0.8,34,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-87,1,0.6,45,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-88,1,0.8,31,3,College/University,Female,Yes,Sometimes,The Philippines
-89,0,1,52,3,College/University,Female,Yes,Never,The Philippines
-90,1,1,38,3,College/University,Female,Yes,Never,The Philippines
-91,1,1,45,3,College/University,Female,Yes,"Yes, all of the time",The Philippines
-92,1,0.8,35,3,Secondary (usually until 18 years old),Female,Yes,Never,The Philippines
-93,0,0.8,41,3,College/University,Female,Yes,Never,The Philippines
-94,1,0.8,31,3,Secondary (usually until 18 years old),Female,Yes,Never,The Philippines
-95,0,0.25,43,3,College/University,Female,Yes,Never,The Philippines
-96,1,1,38,2,Secondary (usually until 18 years old),Female,Yes,Sometimes,The Philippines
-97,0,1,37,3,College/University,Female,Yes,"Yes, all of the time",The Philippines
-98,1,1,49,3,College/University,Female,Yes,Never,The Philippines
-99,1,0.8,46,2,College/University,Female,Yes,Never,The Philippines
-100,0,1,42,2,College/University,Female,Yes,"Yes, all of the time",The Philippines
-101,1,0.6,35,3,Secondary (usually until 18 years old),Female,Yes,Often,The Philippines
-102,1,0.4,34,2,Postgraduate studies (Masters or Phd),Female,Yes,Never,The Philippines
-103,0,0.4,51,8,Secondary (usually until 18 years old),Female,Refused to answer,Refused to answer,The Philippines
-104,0,0.6,33,2,Secondary (usually until 18 years old),Female,Yes,Sometimes,The Philippines
-105,1,0.75,41,4,Elementary (usually until 12 years old),Female,Yes,Never,Indonesia
-106,1,0.8,30,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-107,1,0.8,42,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-108,0,1,40,4,Secondary (usually until 18 years old),Female,Yes,Rarely,Indonesia
-109,0,0.8,41,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-110,1,1,38,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-111,1,0.6,37,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-112,0,1,35,4,Secondary (usually until 18 years old),Female,Yes,Often,Indonesia
-113,1,1,37,3,College/University,Female,Yes,Never,The Philippines
-114,1,0.8,44,7,Secondary (usually until 18 years old),Female,Yes,Sometimes,The Philippines
-115,0,0.8,32,7,Secondary (usually until 18 years old),Female,Yes,Never,The Philippines
-116,1,0.6,48,7,Secondary (usually until 18 years old),Female,Yes,Sometimes,The Philippines
-117,0,0.6,36,2,College/University,Female,Yes,Never,The Philippines
-118,0,0.6,30,4,Secondary (usually until 18 years old),Female,Yes,Sometimes,Indonesia
-119,1,0.5,49,4,Secondary (usually until 18 years old),Female,Yes,Sometimes,Indonesia
-120,1,0.2,48,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-121,1,1,38,4,Elementary (usually until 12 years old),Female,Yes,Never,Indonesia
-122,1,0.2,30,7,Secondary (usually until 18 years old),Female,Yes,Rarely,Indonesia
-123,0,0.4,35,5,Secondary (usually until 18 years old),Female,Yes,Rarely,Indonesia
-124,0,0.75,26,4,College/University,Female,Yes,Never,Indonesia
-125,0,0.6,36,4,Elementary (usually until 12 years old),Female,Yes,Never,Indonesia
-126,1,0.8,37,4,Secondary (usually until 18 years old),Female,Yes,"Yes, all of the time",Indonesia
-127,0,1,38,2,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-128,0,0.8,34,2,Secondary (usually until 18 years old),Female,Yes,Never,The Philippines
-129,1,0,36,4,Secondary (usually until 18 years old),Female,Yes,"Yes, all of the time",Indonesia
-130,1,1,34,4,Secondary (usually until 18 years old),Female,Yes,Sometimes,Indonesia
-131,1,0.5,35,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-132,1,1,39,4,No completed formal education,Female,Yes,Never,Indonesia
-133,1,0.6,27,2,Elementary (usually until 12 years old),Female,Yes,Sometimes,Nepal
-134,0,0.5,35,1,No completed formal education,Female,Yes,Sometimes,Nepal
-135,1,0.8,41,2,No completed formal education,Female,Yes,Never,Nepal
-136,0,0.8,34,2,Secondary (usually until 18 years old),Female,Yes,Never,The Philippines
-137,1,1,32,2,College/University,Female,Yes,Never,The Philippines
-138,1,0.8,34,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-139,0,0.25,35,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-140,1,0.8,30,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-141,0,0.2,40,2,College/University,Female,Yes,Sometimes,The Philippines
-142,1,1,38,3,Secondary (usually until 18 years old),Female,Yes,Never,The Philippines
-143,1,1,29,3,College/University,Female,Yes,Never,The Philippines
-144,0,0.8,32,3,Secondary (usually until 18 years old),Female,Yes,Never,The Philippines
-145,1,1,30,3,Secondary (usually until 18 years old),Female,Yes,Never,The Philippines
-146,1,0.75,30,3,College/University,Female,Yes,Refused to answer,The Philippines
-147,0,0.4,35,3,Secondary (usually until 18 years old),Female,Yes,Rarely,The Philippines
-148,1,0.8,37,3,Secondary (usually until 18 years old),Female,Yes,Never,The Philippines
-149,1,0.75,30,777,College/University,Female,Yes,"Yes, all of the time",The Philippines
-150,1,0.8,34,7,College/University,Female,Yes,"Yes, all of the time",The Philippines
-151,1,1,43,2,Secondary (usually until 18 years old),Female,Yes,Rarely,The Philippines
-152,0,1,41,8,Secondary (usually until 18 years old),Female,Yes,Sometimes,The Philippines
-153,1,1,46,2,College/University,Female,Yes,Never,The Philippines
-154,0,0.8,34,7,College/University,Female,Yes,Often,The Philippines
-155,0,0.25,46,7,Postgraduate studies (Masters or Phd),Female,Yes,"Yes, all of the time",The Philippines
-156,0,1,48,3,College/University,Female,Yes,Never,The Philippines
-157,1,1,30,2,College/University,Female,Yes,Sometimes,The Philippines
-158,1,0.6,55,3,Secondary (usually until 18 years old),Female,Yes,Never,The Philippines
-159,0,1,36,3,College/University,Female,Yes,Never,The Philippines
-160,0,1,48,3,Secondary (usually until 18 years old),Female,Yes,Never,The Philippines
-161,0,0.6,47,3,College/University,Female,Yes,"Yes, all of the time",The Philippines
-162,0,1,53,3,Secondary (usually until 18 years old),Female,Yes,Never,The Philippines
-163,0,0.5,50,2,Secondary (usually until 18 years old),Female,No,Never,The Philippines
-164,1,0.25,28,2,College/University,Female,Yes,"Yes, all of the time",The Philippines
-165,1,0.6,58,3,Secondary (usually until 18 years old),Female,Yes,Never,The Philippines
-166,0,0.8,28,2,College/University,Female,Yes,Sometimes,The Philippines
-167,1,0.8,33,3,Secondary (usually until 18 years old),Female,Yes,Never,The Philippines
-168,1,0.8,34,3,Secondary (usually until 18 years old),Female,Yes,Never,The Philippines
-169,0,1,33,777,College/University,Female,Yes,Never,The Philippines
-170,1,0.75,39,3,Secondary (usually until 18 years old),Female,Yes,Never,The Philippines
-171,0,0.8,50,7,College/University,Female,Yes,Sometimes,The Philippines
-172,1,0.75,26,7,Secondary (usually until 18 years old),Female,Yes,Never,The Philippines
-173,0,0.75,33,777,Secondary (usually until 18 years old),Female,Yes,Never,The Philippines
-174,0,0.6,30,2,Secondary (usually until 18 years old),Female,Yes,Never,The Philippines
-175,1,0.8,32,3,College/University,Female,Yes,"Yes, all of the time",The Philippines
-176,1,0.8,41,3,Secondary (usually until 18 years old),Female,Yes,Never,The Philippines
-177,1,0.6,28,3,Refused to answer,Female,Yes,"Yes, all of the time",The Philippines
-178,0,0.6,38,3,College/University,Female,Yes,Rarely,The Philippines
-179,0,0.8,47,3,Secondary (usually until 18 years old),Female,Yes,Sometimes,The Philippines
-180,0,0.6,38,7,College/University,Female,Yes,Never,The Philippines
-181,1,1,38,2,Refused to answer,Female,Yes,Never,The Philippines
-182,1,0.8,39,2,Secondary (usually until 18 years old),Female,Yes,Never,The Philippines
-183,1,1,42,2,College/University,Female,Yes,Never,The Philippines
-184,1,0.6,36,2,College/University,Female,Yes,Never,The Philippines
-185,1,0.8,33,2,Secondary (usually until 18 years old),Female,Yes,Never,The Philippines
-186,0,1,35,7,Secondary (usually until 18 years old),Female,Yes,Never,The Philippines
-187,0,0.8,42,3,College/University,Female,Yes,Never,The Philippines
-188,1,0.8,26,2,Secondary (usually until 18 years old),Female,Yes,Never,The Philippines
-189,1,0.8,40,2,College/University,Female,Yes,Never,The Philippines
-190,0,0.75,24,3,College/University,Female,Yes,Never,The Philippines
-191,1,0.2,27,3,Secondary (usually until 18 years old),Female,Yes,"Yes, all of the time",The Philippines
-192,1,0.6,35,2,Secondary (usually until 18 years old),Female,Yes,Never,The Philippines
-193,0,0.6,28,2,Secondary (usually until 18 years old),Female,Yes,Sometimes,The Philippines
-194,0,0.6,48,3,Secondary (usually until 18 years old),Female,Yes,Never,The Philippines
-195,1,1,29,2,College/University,Female,Yes,Never,The Philippines
-196,0,1,33,3,College/University,Female,Yes,Never,The Philippines
-197,1,0.8,45,2,College/University,Female,Yes,Never,The Philippines
-198,0,0.8,30,3,College/University,Female,Yes,Never,The Philippines
-199,1,0.8,29,3,College/University,Female,Yes,"Yes, all of the time",The Philippines
-200,0,1,37,2,College/University,Female,Yes,"Yes, all of the time",The Philippines
-201,0,1,51,2,College/University,Female,Yes,"Yes, all of the time",The Philippines
-202,1,1,52,2,College/University,Female,Yes,"Yes, all of the time",The Philippines
-203,1,0.6,47,3,College/University,Female,Yes,"Yes, all of the time",The Philippines
-204,1,1,36,4,Elementary (usually until 12 years old),Female,Yes,Never,The Philippines
-205,0,1,42,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-206,0,1,48,4,Elementary (usually until 12 years old),Female,Yes,Never,Indonesia
-207,1,1,47,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-208,1,1,44,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-209,1,0.6,37,4,College/University,Female,Yes,Sometimes,Indonesia
-210,0,0.75,25,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-211,1,0.75,34,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-212,1,1,32,4,Elementary (usually until 12 years old),Female,Yes,Never,Indonesia
-213,1,1,22,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-214,0,0.8,42,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-215,0,0,59,4,Elementary (usually until 12 years old),Female,Yes,Never,Indonesia
-216,0,0.8,37,4,Secondary (usually until 18 years old),Female,Yes,Sometimes,Indonesia
-217,1,1,28,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-218,0,1,30,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-219,1,0.8,35,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-220,0,0.6,36,4,Secondary (usually until 18 years old),Female,Yes,Often,Indonesia
-221,1,0.8,37,4,Secondary (usually until 18 years old),Female,Yes,"Yes, all of the time",Indonesia
-222,1,1,42,4,Elementary (usually until 12 years old),Female,Yes,Never,Indonesia
-223,1,0.8,41,4,Elementary (usually until 12 years old),Female,Yes,Never,Indonesia
-224,0,0.6,47,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-225,0,1,32,4,Elementary (usually until 12 years old),Female,Yes,Never,Indonesia
-226,1,1,41,4,Elementary (usually until 12 years old),Female,Yes,Never,Indonesia
-227,1,1,36,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-228,1,1,40,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-229,0,0,36,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-230,0,0.6,35,4,Elementary (usually until 12 years old),Female,Yes,Sometimes,Indonesia
-231,0,0.75,29,2,College/University,Female,Yes,"Yes, all of the time",The Philippines
-232,1,1,42,3,Secondary (usually until 18 years old),Female,Yes,Never,The Philippines
-233,0,1,27,3,College/University,Female,Yes,Never,The Philippines
-234,0,0.8,44,2,Secondary (usually until 18 years old),Female,Yes,Never,The Philippines
-235,0,0.8,43,3,College/University,Female,Yes,Never,The Philippines
-236,0,0.6,45,3,Secondary (usually until 18 years old),Female,Yes,"Yes, all of the time",The Philippines
-237,1,0.2,54,2,Secondary (usually until 18 years old),Female,Yes,"Yes, all of the time",The Philippines
-238,0,0.8,30,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-239,1,0.8,35,4,No completed formal education,Female,Yes,Rarely,Indonesia
-240,0,0.8,40,4,Secondary (usually until 18 years old),Female,Yes,Rarely,Indonesia
-241,1,1,42,4,Secondary (usually until 18 years old),Female,Yes,Rarely,Indonesia
-242,1,0.8,43,5,Elementary (usually until 12 years old),Female,Yes,Never,Nepal
-243,0,1,40,5,Elementary (usually until 12 years old),Female,Yes,Never,Nepal
-244,0,1,37,1,Elementary (usually until 12 years old),Female,Yes,Never,Nepal
-245,1,1,NA,5,No completed formal education,Female,Yes,Never,Nepal
-246,1,0.2,45,3,Secondary (usually until 18 years old),Female,Yes,Refused to answer,The Philippines
-247,0,0,31,NA,Secondary (usually until 18 years old),Female,Yes,Never,The Philippines
-248,1,NA,37,NA,College/University,Female,Yes,NA,The Philippines
-249,0,0.4,49,777,College/University,Female,Yes,Refused to answer,The Philippines
-250,0,1,41,2,Secondary (usually until 18 years old),Female,Yes,Never,The Philippines
-251,1,0.2,42,777,Secondary (usually until 18 years old),Female,Yes,Never,The Philippines
-252,1,1,42,3,College/University,Female,Yes,Never,The Philippines
-253,1,1,32,1,Elementary (usually until 12 years old),Female,Yes,Never,Nepal
-254,0,0.6,34,3,Secondary (usually until 18 years old),Female,Yes,Never,The Philippines
-255,1,0.8,39,3,College/University,Female,Yes,Never,The Philippines
-256,1,1,38,3,Secondary (usually until 18 years old),Female,Yes,Sometimes,The Philippines
-257,1,0.6,61,3,College/University,Female,Yes,Sometimes,The Philippines
-258,0,1,50,3,Postgraduate studies (Masters or Phd),Female,Yes,Never,The Philippines
-259,0,0.4,41,3,College/University,Female,Yes,Refused to answer,The Philippines
-260,1,0.2,40,7,College/University,Female,Yes,Never,The Philippines
-261,0,0.6,51,3,Secondary (usually until 18 years old),Female,Yes,Never,The Philippines
-262,1,0,47,2,Secondary (usually until 18 years old),Female,Yes,Never,The Philippines
-263,1,0.4,37,3,College/University,Female,Yes,Never,The Philippines
-264,0,0.6,38,3,College/University,Female,Yes,Never,The Philippines
-265,0,0.4,42,2,College/University,Female,Yes,Never,The Philippines
-266,0,0.8,34,3,College/University,Female,Yes,Never,The Philippines
-267,1,0.2,34,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-268,1,0.8,27,4,Elementary (usually until 12 years old),Female,Yes,Never,Indonesia
-269,1,1,49,4,Secondary (usually until 18 years old),Female,Yes,"Yes, all of the time",Indonesia
-270,1,0.8,33,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-271,1,1,30,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-272,1,0.25,32,2,College/University,Female,Yes,Never,The Philippines
-273,0,0.8,35,2,College/University,Female,Yes,"Yes, all of the time",The Philippines
-274,1,0.25,44,3,Secondary (usually until 18 years old),Female,Yes,"Yes, all of the time",The Philippines
-275,1,1,27,2,College/University,Female,Yes,"Yes, all of the time",The Philippines
-276,1,1,43,2,College/University,Female,Yes,"Yes, all of the time",The Philippines
-277,0,0.6,48,3,College/University,Female,Yes,Never,The Philippines
-278,1,1,39,2,Secondary (usually until 18 years old),Female,Yes,Never,The Philippines
-279,0,0.4,44,5,College/University,Female,Yes,Sometimes,The Philippines
-280,1,0.4,25,3,Secondary (usually until 18 years old),Female,Yes,"Yes, all of the time",The Philippines
-281,1,1,32,3,Secondary (usually until 18 years old),Female,Yes,Never,The Philippines
-282,0,0.75,34,3,College/University,Female,Yes,Never,The Philippines
-283,1,0.8,29,3,Secondary (usually until 18 years old),Female,Yes,Never,The Philippines
-284,0,0.5,50,2,College/University,Female,Yes,Refused to answer,The Philippines
-285,1,1,40,3,Secondary (usually until 18 years old),Female,Yes,Never,The Philippines
-286,1,1,34,3,College/University,Female,Yes,Never,The Philippines
-287,1,1,36,2,Secondary (usually until 18 years old),Female,Yes,Never,The Philippines
-288,0,1,29,3,Secondary (usually until 18 years old),Female,Yes,Never,The Philippines
-289,0,0.2,42,3,College/University,Female,Yes,Often,The Philippines
-290,1,1,28,3,Secondary (usually until 18 years old),Female,Yes,"Yes, all of the time",The Philippines
-291,0,0.8,29,3,College/University,Female,Yes,Never,The Philippines
-292,0,1,36,3,Secondary (usually until 18 years old),Female,Yes,Never,The Philippines
-293,1,1,43,3,College/University,Female,Yes,"Yes, all of the time",The Philippines
-294,0,0.6,27,3,College/University,Female,Yes,Never,The Philippines
-295,0,1,33,3,Secondary (usually until 18 years old),Female,Yes,Never,The Philippines
-296,1,0.8,32,2,College/University,Female,Yes,Never,The Philippines
-297,0,0,31,777,Secondary (usually until 18 years old),Female,Yes,Refused to answer,The Philippines
-298,0,NA,41,NA,College/University,Female,No,NA,The Philippines
-299,1,0.2,41,2,College/University,Female,No,Sometimes,The Philippines
-300,0,0.8,48,2,College/University,Female,Yes,Never,The Philippines
-301,0,0.2,31,2,College/University,Female,Yes,Refused to answer,The Philippines
-302,1,1,39,2,College/University,Female,Yes,Never,The Philippines
-303,0,0.6,52,2,Secondary (usually until 18 years old),Female,Yes,Never,The Philippines
-304,0,0.4,31,2,College/University,Female,Yes,Never,The Philippines
-305,1,0.2,32,2,College/University,Female,Yes,Sometimes,The Philippines
-306,1,0.6,40,2,Secondary (usually until 18 years old),Female,Yes,Refused to answer,The Philippines
-307,0,1,38,3,Secondary (usually until 18 years old),Female,Yes,Never,The Philippines
-308,0,0.8,28,3,Secondary (usually until 18 years old),Female,Yes,Never,The Philippines
-309,1,0.6,42,2,Secondary (usually until 18 years old),Female,Yes,Refused to answer,The Philippines
-310,0,0.25,42,3,College/University,Female,Yes,Never,The Philippines
-311,1,1,41,3,College/University,Female,Yes,Never,The Philippines
-312,1,0.25,26,2,Secondary (usually until 18 years old),Female,Yes,Never,The Philippines
-313,0,0.8,26,2,Secondary (usually until 18 years old),Female,Yes,Rarely,The Philippines
-314,1,1,29,2,College/University,Female,Yes,Rarely,The Philippines
-315,1,1,35,3,Secondary (usually until 18 years old),Female,Yes,Never,The Philippines
-316,1,0.8,32,2,Secondary (usually until 18 years old),Female,Yes,Never,The Philippines
-317,1,1,38,3,Secondary (usually until 18 years old),Female,Yes,Never,The Philippines
-318,0,1,30,777,Secondary (usually until 18 years old),Female,Yes,Sometimes,Indonesia
-319,1,0,22,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-320,0,0,43,4,Elementary (usually until 12 years old),Female,Yes,Never,Indonesia
-321,1,0,41,4,Elementary (usually until 12 years old),Female,Yes,Never,Indonesia
-322,1,0,24,4,Elementary (usually until 12 years old),Female,Yes,Never,Indonesia
-323,0,0,25,4,No completed formal education,Female,Yes,Never,Indonesia
-324,1,0.6,29,4,Elementary (usually until 12 years old),Female,Yes,Never,Indonesia
-325,1,1,38,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-326,0,0.6,38,NA,College/University,Female,Yes,Never,Indonesia
-327,1,0.75,32,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-328,1,0,37,4,Secondary (usually until 18 years old),Female,Yes,Refused to answer,Indonesia
-329,0,0.25,36,4,No completed formal education,Female,Yes,Never,Indonesia
-330,0,1,44,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-331,0,0.8,27,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-332,1,1,40,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-333,1,0.8,33,2,College/University,Female,Yes,Never,The Philippines
-334,1,0.6,36,2,College/University,Female,Yes,Rarely,The Philippines
-335,0,0.8,28,3,College/University,Female,Yes,Never,The Philippines
-336,0,0.6,27,3,College/University,Female,Yes,Rarely,The Philippines
-337,1,0.8,32,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-338,1,1,32,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-339,0,0.8,45,4,Elementary (usually until 12 years old),Female,Yes,Never,Indonesia
-340,0,0.8,37,4,Elementary (usually until 12 years old),Female,Yes,Sometimes,Indonesia
-341,0,0.75,23,4,Elementary (usually until 12 years old),Female,Yes,Never,Indonesia
-342,1,0.8,35,4,Secondary (usually until 18 years old),Female,Yes,Rarely,Indonesia
-343,0,0.75,30,NA,Elementary (usually until 12 years old),Female,Yes,Never,Indonesia
-344,1,0.75,41,4,Elementary (usually until 12 years old),Female,Yes,"Yes, all of the time",Indonesia
-345,0,1,27,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-346,1,0,29,4,Secondary (usually until 18 years old),Female,Yes,"Yes, all of the time",Indonesia
-347,0,1,27,4,Secondary (usually until 18 years old),Female,Yes,Sometimes,Indonesia
-348,1,0,30,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-349,1,0.6,32,3,Secondary (usually until 18 years old),Female,Yes,Never,The Philippines
-350,1,1,32,3,Secondary (usually until 18 years old),Female,Yes,Refused to answer,The Philippines
-351,1,0.2,38,2,College/University,Female,Yes,Refused to answer,The Philippines
-352,1,0.8,35,2,Secondary (usually until 18 years old),Female,Yes,Never,The Philippines
-353,0,1,38,2,No completed formal education,Female,Yes,Never,Nepal
-354,1,1,47,2,No completed formal education,Female,Yes,Never,Nepal
-355,1,1,41,2,Elementary (usually until 12 years old),Female,Yes,Never,Nepal
-356,1,1,29,2,Elementary (usually until 12 years old),Female,Yes,Never,Nepal
-357,0,1,49,2,No completed formal education,Female,Yes,Never,Nepal
-358,0,1,40,5,Elementary (usually until 12 years old),Female,Yes,Never,Nepal
-359,1,1,26,5,Elementary (usually until 12 years old),Female,Yes,Sometimes,Nepal
-360,1,1,35,4,Secondary (usually until 18 years old),Female,Yes,Sometimes,Indonesia
-361,1,1,33,4,Secondary (usually until 18 years old),Female,Yes,Sometimes,Indonesia
-362,0,1,23,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-363,1,0.5,28,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-364,0,0.25,26,4,Secondary (usually until 18 years old),Female,Yes,Sometimes,Indonesia
-365,1,0.5,36,4,Elementary (usually until 12 years old),Female,Yes,Never,Indonesia
-366,1,1,34,4,Elementary (usually until 12 years old),Female,Yes,Never,Indonesia
-367,0,0.75,45,4,Elementary (usually until 12 years old),Female,Yes,Never,Indonesia
-368,0,1,40,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-369,0,0.8,29,7,Elementary (usually until 12 years old),Female,Yes,Never,Indonesia
-370,0,1,44,2,Secondary (usually until 18 years old),Female,Yes,Never,The Philippines
-371,1,1,41,3,Secondary (usually until 18 years old),Female,Yes,Never,The Philippines
-372,0,0.8,35,3,Secondary (usually until 18 years old),Female,Yes,Never,The Philippines
-373,1,0.8,36,3,College/University,Female,Yes,Never,The Philippines
-374,1,1,32,3,Secondary (usually until 18 years old),Female,Yes,"Yes, all of the time",The Philippines
-375,1,0.8,25,4,Secondary (usually until 18 years old),Female,Yes,Rarely,Indonesia
-376,0,1,41,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-377,0,0.8,52,3,Secondary (usually until 18 years old),Female,Yes,Never,The Philippines
-378,1,0.5,48,3,Secondary (usually until 18 years old),Female,Yes,Never,The Philippines
-379,1,0.25,37,3,Secondary (usually until 18 years old),Female,Yes,Never,The Philippines
-380,1,0.75,33,3,College/University,Female,Yes,Sometimes,The Philippines
-381,0,0.75,40,3,College/University,Female,Yes,Rarely,The Philippines
-382,1,0.6,42,2,Secondary (usually until 18 years old),Female,Yes,Never,The Philippines
-383,1,NA,38,NA,College/University,Female,Yes,NA,The Philippines
-384,1,0.8,36,3,College/University,Female,Yes,Rarely,The Philippines
-385,0,0.8,32,3,College/University,Female,Yes,Never,The Philippines
-386,1,0.6,34,2,College/University,Female,Yes,Never,The Philippines
-387,0,0.8,45,3,Secondary (usually until 18 years old),Female,Yes,Never,The Philippines
-388,0,0.8,49,2,College/University,Female,Yes,Never,The Philippines
-389,0,0.8,28,2,Secondary (usually until 18 years old),Female,Yes,Never,The Philippines
-390,1,1,41,7,Secondary (usually until 18 years old),Female,Yes,Never,The Philippines
-391,1,0.2,29,3,Secondary (usually until 18 years old),Female,Yes,"Yes, all of the time",The Philippines
-392,1,1,33,7,Secondary (usually until 18 years old),Female,Yes,Never,The Philippines
-393,1,0.4,40,3,Elementary (usually until 12 years old),Female,Yes,Never,The Philippines
-394,1,1,30,3,College/University,Female,Yes,"Yes, all of the time",The Philippines
-395,1,1,30,3,College/University,Female,Yes,Never,The Philippines
-396,0,0.8,30,3,Postgraduate studies (Masters or Phd),Female,Yes,"Yes, all of the time",The Philippines
-397,1,0.2,40,2,College/University,Female,Yes,"Yes, all of the time",The Philippines
-398,0,1,33,3,College/University,Female,Yes,Never,The Philippines
-399,1,1,39,3,College/University,Female,Yes,Never,The Philippines
-400,0,0.8,47,3,College/University,Female,Yes,"Yes, all of the time",The Philippines
-401,0,1,40,2,College/University,Female,Yes,Never,The Philippines
-402,0,1,26,3,Secondary (usually until 18 years old),Female,Yes,Never,The Philippines
-403,0,0.8,37,3,College/University,Female,Yes,Never,The Philippines
-404,1,0.8,34,3,Secondary (usually until 18 years old),Female,Yes,Sometimes,The Philippines
-405,1,0.8,25,7,College/University,Female,Yes,Sometimes,The Philippines
-406,0,0.25,48,7,College/University,Female,Yes,"Yes, all of the time",The Philippines
-407,0,0.6,42,3,College/University,Female,Yes,Sometimes,The Philippines
-408,0,0.8,35,7,Secondary (usually until 18 years old),Female,Yes,"Yes, all of the time",The Philippines
-409,1,0.8,32,4,Elementary (usually until 12 years old),Female,Yes,Never,Indonesia
-410,0,0.8,35,4,Elementary (usually until 12 years old),Female,Yes,Sometimes,Indonesia
-411,1,0.8,25,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-412,1,0.8,42,4,Elementary (usually until 12 years old),Female,Yes,Never,Indonesia
-413,0,0.8,35,4,Elementary (usually until 12 years old),Female,Yes,Never,Indonesia
-414,0,0.8,25,3,College/University,Female,Yes,Sometimes,The Philippines
-415,1,0.4,42,2,College/University,Female,Yes,Never,The Philippines
-416,0,0.8,45,3,Secondary (usually until 18 years old),Female,Yes,Never,The Philippines
-417,1,1,31,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-418,0,0,36,777,Secondary (usually until 18 years old),Female,Refused to answer,Refused to answer,Indonesia
-419,0,1,37,3,Secondary (usually until 18 years old),Female,Yes,Never,The Philippines
-420,0,0.4,31,3,Secondary (usually until 18 years old),Female,Yes,"Yes, all of the time",The Philippines
-421,1,1,46,3,College/University,Female,Yes,Never,The Philippines
-422,1,1,40,3,College/University,Female,Yes,Never,The Philippines
-423,1,0.8,40,3,College/University,Female,Yes,Never,The Philippines
-424,1,0.6,35,2,College/University,Female,Yes,Never,The Philippines
-425,0,1,29,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-426,0,0.8,32,4,Secondary (usually until 18 years old),Female,Yes,Rarely,Indonesia
-427,1,0.6,35,4,Elementary (usually until 12 years old),Female,Yes,Often,Indonesia
-428,0,0.8,29,4,Secondary (usually until 18 years old),Female,Yes,Sometimes,Indonesia
-429,1,0.4,37,3,College/University,Female,Yes,"Yes, all of the time",The Philippines
-430,0,1,33,2,Secondary (usually until 18 years old),Female,Yes,Sometimes,The Philippines
-431,0,0.8,36,2,Secondary (usually until 18 years old),Female,Yes,Rarely,The Philippines
-432,0,1,45,2,College/University,Female,Yes,Never,The Philippines
-433,0,1,31,1,Elementary (usually until 12 years old),Female,Yes,Sometimes,Nepal
-434,1,1,39,2,No completed formal education,Female,Yes,Never,Nepal
-435,1,1,32,1,College/University,Female,Yes,Never,Nepal
-436,1,1,40,5,No completed formal education,Female,Yes,Never,Nepal
-437,0,1,35,2,No completed formal education,Female,Yes,Never,Nepal
-438,1,0.2,28,1,College/University,Female,Yes,Sometimes,The Philippines
-439,1,0.2,41,1,Secondary (usually until 18 years old),Female,Yes,Sometimes,The Philippines
-440,1,0,36,1,College/University,Female,Yes,Rarely,The Philippines
-441,1,0.2,36,2,College/University,Female,Yes,Sometimes,The Philippines
-442,1,0.2,40,2,No completed formal education,Female,Yes,Sometimes,The Philippines
-443,0,0.8,27,2,College/University,Female,Yes,Rarely,The Philippines
-444,1,0.8,46,3,College/University,Female,Yes,Rarely,The Philippines
-445,1,0.8,30,2,College/University,Female,Yes,Rarely,The Philippines
-446,0,0.6,45,3,College/University,Female,Yes,Never,The Philippines
-447,1,0.5,40,4,College/University,Female,Yes,Sometimes,Indonesia
-448,1,0.8,33,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-449,1,0.8,45,777,Secondary (usually until 18 years old),Female,Yes,Sometimes,Indonesia
-450,1,0.5,30,777,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-451,0,0.8,57,3,College/University,Female,Yes,Never,The Philippines
-452,1,0.5,38,3,College/University,Female,Yes,Never,The Philippines
-453,1,1,25,3,Elementary (usually until 12 years old),Female,Yes,Never,The Philippines
-454,1,0.5,41,3,College/University,Female,Yes,Sometimes,The Philippines
-455,0,0,56,3,Secondary (usually until 18 years old),Female,Yes,Sometimes,The Philippines
-456,0,0.5,43,8,Elementary (usually until 12 years old),Female,Yes,Never,Indonesia
-457,1,0,37,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-458,0,0.4,32,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-459,0,1,30,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-460,1,0.2,36,3,College/University,Female,Yes,Rarely,Indonesia
-461,0,0,36,7,College/University,Female,Yes,Often,Indonesia
-462,0,0.4,42,1,College/University,Female,Yes,"Yes, all of the time",Indonesia
-463,1,0.8,52,5,Secondary (usually until 18 years old),Female,Yes,Rarely,Indonesia
-464,1,0.5,47,4,College/University,Female,No,Refused to answer,Indonesia
-465,1,0.2,41,4,College/University,Female,Yes,Sometimes,Indonesia
-466,1,0.4,28,4,Secondary (usually until 18 years old),Female,Yes,Rarely,Indonesia
-467,0,0.8,37,7,Secondary (usually until 18 years old),Female,Yes,Rarely,Indonesia
-468,1,1,30,2,Secondary (usually until 18 years old),Female,Yes,"Yes, all of the time",The Philippines
-469,0,0.4,30,3,College/University,Female,Yes,Never,The Philippines
-470,1,0.6,29,7,Secondary (usually until 18 years old),Female,Yes,"Yes, all of the time",The Philippines
-471,0,1,28,3,College/University,Female,Yes,Rarely,The Philippines
-472,1,0.25,48,3,Secondary (usually until 18 years old),Female,Yes,Never,The Philippines
-473,1,1,47,3,College/University,Female,Yes,Never,The Philippines
-474,0,0.4,49,2,Secondary (usually until 18 years old),Female,Yes,Never,The Philippines
-475,0,0.2,39,2,College/University,Female,Yes,Never,The Philippines
-476,1,0.6,29,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-477,0,1,29,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-478,1,0.8,26,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-479,0,0.8,32,7,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-480,1,1,30,4,Secondary (usually until 18 years old),Female,Yes,Rarely,Indonesia
-481,0,0.8,23,4,Secondary (usually until 18 years old),Female,Yes,Rarely,Indonesia
-482,0,1,43,4,Elementary (usually until 12 years old),Female,Yes,Never,Indonesia
-483,1,1,43,3,Secondary (usually until 18 years old),Female,Yes,Rarely,The Philippines
-484,1,1,23,3,College/University,Female,Yes,Never,The Philippines
-485,1,0.8,33,2,College/University,Female,Yes,Rarely,The Philippines
-486,0,1,40,3,College/University,Female,Yes,"Yes, all of the time",The Philippines
-487,1,1,38,2,College/University,Female,Yes,Never,The Philippines
-488,0,1,34,2,No completed formal education,Female,Yes,Never,Nepal
-489,1,1,39,4,Secondary (usually until 18 years old),Female,Yes,Rarely,Indonesia
-490,0,1,40,4,Elementary (usually until 12 years old),Female,Yes,Rarely,Indonesia
-491,1,0.6,40,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-492,1,0.8,24,4,Refused to answer,Female,Yes,Never,Indonesia
-493,1,0.8,43,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-494,0,0.8,39,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-495,1,0.6,50,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-496,1,1,30,4,Secondary (usually until 18 years old),Female,Yes,"Yes, all of the time",Indonesia
-497,0,0.75,30,4,Elementary (usually until 12 years old),Female,Yes,Never,Indonesia
-498,0,0.8,24,4,Elementary (usually until 12 years old),Female,Yes,Never,Indonesia
-499,0,0.8,34,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-500,1,1,41,4,Elementary (usually until 12 years old),Female,Yes,Never,Indonesia
-501,1,0.75,37,3,College/University,Female,Yes,Never,The Philippines
-502,0,1,38,2,College/University,Female,Yes,Sometimes,The Philippines
-503,1,0.8,29,3,Secondary (usually until 18 years old),Female,Yes,Rarely,The Philippines
-504,1,0.75,32,3,College/University,Female,Yes,Sometimes,The Philippines
-505,1,0.2,35,3,College/University,Female,Yes,Rarely,The Philippines
-506,1,0.8,35,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-507,1,0.75,42,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-508,1,1,39,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-509,1,1,47,4,Elementary (usually until 12 years old),Female,Yes,Never,Indonesia
-510,1,0.8,42,4,Secondary (usually until 18 years old),Female,Yes,"Yes, all of the time",Indonesia
-511,0,1,42,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-512,0,0.6,50,4,Elementary (usually until 12 years old),Female,Yes,Never,Indonesia
-513,1,0.8,42,3,Elementary (usually until 12 years old),Female,Yes,Never,Indonesia
-514,1,1,49,3,College/University,Female,Yes,Rarely,The Philippines
-515,0,1,28,3,Secondary (usually until 18 years old),Female,Yes,Refused to answer,The Philippines
-516,0,0.6,28,3,Secondary (usually until 18 years old),Female,Yes,Never,The Philippines
-517,1,0.8,30,4,College/University,Female,Yes,Never,Indonesia
-518,0,0.8,35,4,Secondary (usually until 18 years old),Female,Yes,Often,Indonesia
-519,0,0.8,43,4,Secondary (usually until 18 years old),Female,Yes,Rarely,Indonesia
-520,0,0.8,42,4,Secondary (usually until 18 years old),Female,Yes,Sometimes,Indonesia
-521,0,1,28,2,Secondary (usually until 18 years old),Female,Yes,Never,The Philippines
-522,1,0.8,28,2,Elementary (usually until 12 years old),Female,Yes,Never,The Philippines
-523,0,1,37,3,College/University,Female,Yes,Never,The Philippines
-524,0,0.6,46,2,Elementary (usually until 12 years old),Female,Yes,Rarely,The Philippines
-525,0,0.4,34,3,Secondary (usually until 18 years old),Female,Yes,Never,The Philippines
-526,1,0.2,21,4,Secondary (usually until 18 years old),Female,Yes,"Yes, all of the time",Indonesia
-527,0,0.8,27,2,Elementary (usually until 12 years old),Female,Yes,Never,Indonesia
-528,0,0.4,64,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-529,0,1,23,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-530,1,1,39,2,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-531,0,0.8,35,2,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-532,1,0.25,30,4,Secondary (usually until 18 years old),Female,Yes,"Yes, all of the time",Indonesia
-533,1,0.25,34,2,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-534,1,0.75,33,4,Elementary (usually until 12 years old),Female,Yes,Never,Indonesia
-535,0,1,37,4,Elementary (usually until 12 years old),Female,Yes,Never,Indonesia
-536,1,1,39,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-537,0,0.6,49,2,Secondary (usually until 18 years old),Female,Yes,Never,The Philippines
-538,1,0.6,36,2,College/University,Female,Yes,Never,The Philippines
-539,0,0.4,37,777,College/University,Female,Yes,Never,The Philippines
-540,0,0.8,43,2,College/University,Female,Yes,Refused to answer,The Philippines
-541,0,1,39,3,Secondary (usually until 18 years old),Female,Yes,"Yes, all of the time",The Philippines
-542,0,1,39,2,Secondary (usually until 18 years old),Female,Yes,"Yes, all of the time",The Philippines
-543,0,0.6,41,3,College/University,Female,Yes,"Yes, all of the time",The Philippines
-544,1,1,35,2,College/University,Female,Yes,"Yes, all of the time",The Philippines
-545,1,1,32,2,Secondary (usually until 18 years old),Female,Yes,"Yes, all of the time",The Philippines
-546,0,0.75,52,3,College/University,Female,Yes,Refused to answer,The Philippines
-547,1,1,38,2,College/University,Female,Yes,Refused to answer,The Philippines
-548,0,1,29,3,Secondary (usually until 18 years old),Female,Yes,Never,The Philippines
-549,1,1,36,3,College/University,Female,Yes,Never,The Philippines
-550,1,0.6,32,2,College/University,Female,Yes,"Yes, all of the time",The Philippines
-551,0,0.6,40,7,Secondary (usually until 18 years old),Female,Yes,Rarely,The Philippines
-552,0,0.6,36,7,Postgraduate studies (Masters or Phd),Female,Yes,Often,The Philippines
-553,0,0.8,42,777,Secondary (usually until 18 years old),Female,Yes,"Yes, all of the time",The Philippines
-554,0,0.6,30,7,Secondary (usually until 18 years old),Female,Yes,"Yes, all of the time",The Philippines
-555,1,0.6,43,3,Secondary (usually until 18 years old),Female,Yes,Sometimes,The Philippines
-556,0,1,50,2,Secondary (usually until 18 years old),Female,Yes,Never,The Philippines
-557,0,0.6,42,2,College/University,Female,Yes,Never,The Philippines
-558,1,0.6,40,3,College/University,Female,Yes,"Yes, all of the time",The Philippines
-559,0,0.8,25,2,College/University,Female,Yes,Never,The Philippines
-560,0,0.8,46,3,College/University,Female,Yes,Never,The Philippines
-561,1,1,46,2,Secondary (usually until 18 years old),Female,Yes,Never,The Philippines
-562,1,0.4,40,2,Refused to answer,Female,Yes,Never,The Philippines
-563,0,0.2,40,2,College/University,Female,Yes,Never,The Philippines
-564,1,0.8,42,2,Secondary (usually until 18 years old),Female,Yes,Sometimes,The Philippines
-565,0,0.5,49,2,College/University,Female,Yes,Sometimes,The Philippines
-566,1,0.8,51,3,College/University,Female,Yes,Never,The Philippines
-567,0,1,42,3,College/University,Female,Yes,Never,The Philippines
-568,0,0.8,32,777,College/University,Female,Yes,Never,The Philippines
-569,1,0.75,36,7,Secondary (usually until 18 years old),Female,Yes,Sometimes,The Philippines
-570,1,1,48,1,Elementary (usually until 12 years old),Female,Yes,Never,Nepal
-571,0,0.6,52,2,College/University,Female,Yes,Never,The Philippines
-572,1,1,42,2,College/University,Female,Yes,"Yes, all of the time",The Philippines
-573,0,0,39,2,College/University,Female,Yes,Refused to answer,The Philippines
-574,0,0.2,39,3,College/University,Female,Yes,Rarely,The Philippines
-575,0,0.8,38,2,Secondary (usually until 18 years old),Female,Yes,Sometimes,The Philippines
-576,0,0.2,40,8,Secondary (usually until 18 years old),Female,Yes,Sometimes,The Philippines
-577,0,0.75,35,3,No completed formal education,Female,Yes,Never,The Philippines
-578,0,0.8,37,3,College/University,Female,Yes,Never,The Philippines
-579,0,0.8,36,3,College/University,Female,Yes,"Yes, all of the time",The Philippines
-580,1,1,44,2,Secondary (usually until 18 years old),Female,Yes,Never,The Philippines
-581,0,0.8,33,2,Secondary (usually until 18 years old),Female,Yes,Sometimes,The Philippines
-582,0,0.6,36,777,Secondary (usually until 18 years old),Female,Yes,Sometimes,The Philippines
-583,0,0.2,28,1,Secondary (usually until 18 years old),Female,Yes,Often,The Philippines
-584,1,0.8,28,777,College/University,Female,Yes,Never,The Philippines
-585,0,1,27,2,Secondary (usually until 18 years old),Female,Yes,Never,The Philippines
-586,0,0.6,27,3,Secondary (usually until 18 years old),Female,Yes,Often,The Philippines
-587,1,1,32,5,Elementary (usually until 12 years old),Female,Yes,Never,Nepal
-588,1,1,37,1,No completed formal education,Female,Yes,Never,Nepal
-589,0,1,30,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-590,0,0.2,31,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-591,0,0.8,37,4,Secondary (usually until 18 years old),Female,Refused to answer,Never,Indonesia
-592,1,1,30,4,Elementary (usually until 12 years old),Female,Yes,Never,Indonesia
-593,0,0.8,30,4,Elementary (usually until 12 years old),Female,Yes,Never,Indonesia
-594,1,1,28,4,Elementary (usually until 12 years old),Female,Yes,Never,Indonesia
-595,1,0,48,4,Elementary (usually until 12 years old),Female,Yes,Never,Indonesia
-596,0,0.8,27,4,Elementary (usually until 12 years old),Female,Yes,Sometimes,Indonesia
-597,0,0.8,30,4,Elementary (usually until 12 years old),Female,Yes,Never,Indonesia
-598,1,0.8,30,4,Secondary (usually until 18 years old),Female,Yes,Rarely,Indonesia
-599,0,1,40,4,Elementary (usually until 12 years old),Female,Yes,Never,Indonesia
-600,0,0.8,27,4,Secondary (usually until 18 years old),Female,Yes,Rarely,Indonesia
-601,1,0.6,26,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-602,0,1,24,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-603,0,0.8,36,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-604,0,1,40,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-605,0,0.8,32,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-606,1,1,36,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-607,1,0.8,29,4,Secondary (usually until 18 years old),Female,Yes,Rarely,Indonesia
-608,1,0.8,38,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-609,1,0.8,40,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-610,0,0.6,27,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-611,0,1,30,4,College/University,Female,Yes,Rarely,Indonesia
-612,1,0.4,42,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-613,1,0.4,24,7,College/University,Female,Yes,Sometimes,Indonesia
-614,0,0.25,35,7,Secondary (usually until 18 years old),Female,Yes,Rarely,Indonesia
-615,1,0.8,26,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-616,1,0.6,32,4,Secondary (usually until 18 years old),Female,Yes,Rarely,Indonesia
-617,0,0.6,27,7,Secondary (usually until 18 years old),Female,Yes,Rarely,Indonesia
-618,0,0,31,4,Postgraduate studies (Masters or Phd),Female,Yes,Rarely,Indonesia
-619,0,0.4,41,1,College/University,Female,Yes,Never,Indonesia
-620,1,0.8,32,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-621,0,0.75,32,4,College/University,Female,Yes,Often,Indonesia
-622,1,0.6,34,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-623,1,0.8,49,2,Elementary (usually until 12 years old),Female,Yes,Never,Indonesia
-624,0,0,46,6,Elementary (usually until 12 years old),Female,Yes,Never,Indonesia
-625,0,0.25,28,2,Secondary (usually until 18 years old),Female,Yes,Sometimes,Indonesia
-626,0,1,38,1,No completed formal education,Female,Yes,Never,Nepal
-627,0,1,34,2,No completed formal education,Female,Yes,Never,Nepal
-628,0,1,38,5,No completed formal education,Female,Yes,Never,Nepal
-629,1,0.2,29,8,Secondary (usually until 18 years old),Female,Yes,Sometimes,Indonesia
-630,1,0.8,36,3,College/University,Female,Yes,Sometimes,Indonesia
-631,0,0.8,36,8,College/University,Female,Yes,Sometimes,Indonesia
-632,0,0.8,36,777,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-633,0,0.8,35,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-634,1,0.8,32,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-635,1,0.6,30,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-636,0,1,24,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-637,0,0.6,33,2,Secondary (usually until 18 years old),Female,Yes,Sometimes,The Philippines
-638,1,0.4,46,4,Secondary (usually until 18 years old),Female,Yes,Rarely,Indonesia
-639,0,0.4,43,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-640,0,0.4,35,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-641,1,0.6,34,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-642,0,0.8,42,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-643,1,1,38,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-644,0,0.6,30,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-645,1,0.8,29,4,Elementary (usually until 12 years old),Female,Yes,Never,Indonesia
-646,0,0.8,35,4,Elementary (usually until 12 years old),Female,Yes,Rarely,Indonesia
-647,0,1,38,4,Elementary (usually until 12 years old),Female,Yes,Sometimes,Indonesia
-648,1,1,40,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-649,0,0.75,30,4,No completed formal education,Female,Yes,Never,Indonesia
-650,1,0.8,28,7,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-651,0,0.8,32,777,Secondary (usually until 18 years old),Female,Yes,Rarely,Indonesia
-652,0,0.75,32,777,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-653,0,1,37,5,Secondary (usually until 18 years old),Female,Yes,Never,The Philippines
-654,0,0.25,43,5,Elementary (usually until 12 years old),Female,Yes,Never,The Philippines
-655,1,0.6,42,2,College/University,Female,Yes,Sometimes,The Philippines
-656,0,0.4,36,3,Secondary (usually until 18 years old),Female,Yes,Never,The Philippines
-657,0,1,39,4,Elementary (usually until 12 years old),Female,Yes,Rarely,Indonesia
-658,0,0.4,34,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-659,0,0.75,42,3,College/University,Female,Yes,Never,The Philippines
-660,0,0,44,3,College/University,Female,Yes,Never,The Philippines
-661,0,0.6,37,3,Secondary (usually until 18 years old),Female,Yes,Rarely,The Philippines
-662,0,0.75,29,2,College/University,Female,Yes,Never,The Philippines
-663,1,0.8,42,2,College/University,Female,Yes,Never,The Philippines
-664,0,0.6,36,2,Secondary (usually until 18 years old),Female,Yes,Never,The Philippines
-665,0,0.8,40,2,College/University,Female,Yes,Never,The Philippines
-666,0,1,39,2,College/University,Female,Yes,Never,The Philippines
-667,1,1,38,7,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-668,1,1,35,7,Elementary (usually until 12 years old),Female,Yes,Never,Indonesia
-669,1,1,40,7,Secondary (usually until 18 years old),Female,Yes,Sometimes,Indonesia
-670,0,0.2,41,4,Secondary (usually until 18 years old),Female,Yes,Sometimes,Indonesia
-671,0,0,47,7,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-672,0,0.2,40,7,College/University,Female,No,Never,Indonesia
-673,0,0.8,48,2,Secondary (usually until 18 years old),Female,No,Never,The Philippines
-674,0,1,37,2,College/University,Female,Yes,Never,The Philippines
-675,1,1,24,4,Elementary (usually until 12 years old),Female,Yes,Never,Indonesia
-676,0,0.8,41,4,Secondary (usually until 18 years old),Female,Yes,Sometimes,Indonesia
-677,0,0.75,28,4,Secondary (usually until 18 years old),Female,Yes,Sometimes,Indonesia
-678,1,0.4,43,777,Secondary (usually until 18 years old),Female,Yes,Never,The Philippines
-679,0,1,33,3,Secondary (usually until 18 years old),Female,Yes,Never,The Philippines
-680,0,0.4,30,4,Elementary (usually until 12 years old),Female,Yes,Never,Indonesia
-681,0,0,29,4,Secondary (usually until 18 years old),Female,Yes,Often,Indonesia
-682,0,0.6,33,3,Secondary (usually until 18 years old),Female,Yes,Never,The Philippines
-683,0,0.6,29,3,Secondary (usually until 18 years old),Female,Yes,"Yes, all of the time",The Philippines
-684,1,0.8,28,4,Secondary (usually until 18 years old),Female,Yes,"Yes, all of the time",Indonesia
-685,0,0.6,22,4,No completed formal education,Female,Yes,Never,Indonesia
-686,0,0.25,35,4,No completed formal education,Female,Refused to answer,Never,Indonesia
-687,1,0.8,37,7,College/University,Female,Yes,Often,The Philippines
-688,0,0.6,41,3,Secondary (usually until 18 years old),Female,Yes,"Yes, all of the time",The Philippines
-689,0,0.5,34,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-690,0,0.8,31,7,College/University,Female,Yes,Often,Indonesia
-691,0,0.4,22,3,College/University,Female,Yes,Never,The Philippines
-692,0,0.4,25,4,College/University,Female,Yes,Sometimes,Indonesia
-693,0,0.6,30,7,College/University,Female,Yes,Never,Indonesia
-694,0,1,43,2,Refused to answer,Female,Yes,Never,The Philippines
-695,0,0.5,45,3,College/University,Female,Yes,Never,The Philippines
-696,0,1,39,4,College/University,Female,Yes,Sometimes,Indonesia
-697,1,0.75,33,4,Elementary (usually until 12 years old),Female,Yes,Often,Indonesia
-698,0,0.8,41,4,Secondary (usually until 18 years old),Female,Yes,Sometimes,Indonesia
-699,1,1,30,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-700,1,1,36,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-701,0,1,32,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-702,0,0.8,32,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-703,0,1,38,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
-704,1,0.8,37,2,College/University,Female,Yes,Never,The Philippines
-705,0,1,28,2,College/University,Female,Yes,Never,The Philippines
-706,0,0.6,34,2,Elementary (usually until 12 years old),Female,Yes,"Yes, all of the time",Indonesia
-707,0,0,30,4,Secondary (usually until 18 years old),Female,Yes,Never,Indonesia
+"id","treated","score","nationality","age","gender","birth_urbanrural","educ","ud_freedom_movement"
+1,0,1,"Indonesia",25,"Female","Rural","Secondary (usually until 18 years old)","Never"
+2,0,1,"Indonesia",37,"Female","Rural","Elementary (usually until 12 years old)","Refused to answer"
+3,0,1,"Indonesia",23,"Female","Urban","Secondary (usually until 18 years old)","Rarely"
+4,0,1,"Indonesia",25,"Female","Rural","Secondary (usually until 18 years old)","Sometimes"
+5,0,1,"Indonesia",29,"Female","Refused to answer","Secondary (usually until 18 years old)","Never"
+6,1,1,"The Philippines",43,"Female","Urban","Secondary (usually until 18 years old)","Never"
+7,1,1,"The Philippines",35,"Female","Urban","Secondary (usually until 18 years old)","Never"
+8,0,1,"The Philippines",38,"Female","Urban","College/University","Never"
+9,0,0.333333333333333,"The Philippines",43,"Female","Urban","Secondary (usually until 18 years old)","Never"
+10,1,1,"The Philippines",31,"Female","Rural","College/University","Yes, all of the time"
+11,1,1,"The Philippines",46,"Female","Rural","College/University","Never"
+12,0,1,"The Philippines",55,"Female","Rural","College/University","Never"
+13,1,1,"Indonesia",38,"Female","Rural","Secondary (usually until 18 years old)","Never"
+14,1,1,"Indonesia",36,"Female","Rural","College/University","Sometimes"
+15,1,1,"Indonesia",38,"Female","Rural","Elementary (usually until 12 years old)","Sometimes"
+16,0,0.8,"Indonesia",34,"Female","Rural","Secondary (usually until 18 years old)","Never"
+17,0,NA,"Indonesia",27,"Female","Rural","Secondary (usually until 18 years old)","Never"
+18,0,0.25,"Indonesia",26,"Female","Urban","Elementary (usually until 12 years old)","Rarely"
+19,1,1,"Indonesia",32,"Female","Rural","College/University","Never"
+20,0,0.4,"Indonesia",31,"Female","Rural","Elementary (usually until 12 years old)","Never"
+21,0,0,"Indonesia",29,"Female","Rural","Secondary (usually until 18 years old)","Never"
+22,1,0.25,"Indonesia",25,"Female","Rural","Secondary (usually until 18 years old)","Sometimes"
+23,1,1,"Indonesia",35,"Female","Urban","Secondary (usually until 18 years old)","Never"
+24,1,1,"Indonesia",45,"Female","Rural","Secondary (usually until 18 years old)","Never"
+25,0,0.4,"Indonesia",40,"Female","Rural","Elementary (usually until 12 years old)","Sometimes"
+26,1,0.25,"Indonesia",30,"Female","Urban","Secondary (usually until 18 years old)","Never"
+27,1,1,"Indonesia",23,"Female","Urban","Secondary (usually until 18 years old)","Never"
+28,0,0,"Indonesia",35,"Female","Rural","Elementary (usually until 12 years old)","Never"
+29,0,0.8,"Indonesia",47,"Female","Rural","Secondary (usually until 18 years old)","Never"
+30,1,0.8,"Indonesia",30,"Female","Rural","Secondary (usually until 18 years old)","Never"
+31,0,1,"Indonesia",30,"Female","Rural","Secondary (usually until 18 years old)","Never"
+32,0,1,"Indonesia",40,"Female","Rural","Secondary (usually until 18 years old)","Sometimes"
+33,0,1,"Indonesia",46,"Female","Rural","Secondary (usually until 18 years old)","Never"
+34,0,0.6,"Indonesia",33,"Female","Rural","Secondary (usually until 18 years old)","Never"
+35,0,0.6,"Indonesia",36,"Female","Urban","Secondary (usually until 18 years old)","Rarely"
+36,0,0.666666666666667,"Indonesia",28,"Female","Urban","Secondary (usually until 18 years old)","Sometimes"
+37,0,1,"The Philippines",40,"Female","Urban","College/University","Never"
+38,1,1,"The Philippines",40,"Female","Urban","College/University","Never"
+39,1,1,"The Philippines",39,"Female","Rural","College/University","Never"
+40,1,1,"The Philippines",31,"Female","Urban","Secondary (usually until 18 years old)","Never"
+41,1,1,"The Philippines",30,"Female","Urban","Postgraduate studies (Masters or Phd)","Never"
+42,0,1,"The Philippines",32,"Female","Refused to answer","College/University","Never"
+43,0,1,"The Philippines",42,"Female","Refused to answer","College/University","Never"
+44,1,NA,"The Philippines",36,"Female","Urban","Secondary (usually until 18 years old)","Refused to answer"
+45,1,1,"The Philippines",31,"Female","Urban","Secondary (usually until 18 years old)","Sometimes"
+46,1,0.666666666666667,"The Philippines",34,"Female","Urban","Secondary (usually until 18 years old)","Refused to answer"
+47,1,0.6,"The Philippines",54,"Female","Refused to answer","No completed formal education","Yes, all of the time"
+48,1,1,"The Philippines",59,"Female","Rural","College/University","Yes, all of the time"
+49,0,1,"The Philippines",30,"Female","Rural","College/University","Refused to answer"
+50,1,1,"Indonesia",34,"Female","Rural","College/University","Yes, all of the time"
+51,1,1,"The Philippines",34,"Female","Refused to answer","Secondary (usually until 18 years old)","Never"
+52,1,1,"The Philippines",35,"Female","Rural","College/University","Never"
+53,1,0.5,"The Philippines",30,"Female","Urban","College/University","Never"
+54,0,1,"The Philippines",38,"Female","Urban","Secondary (usually until 18 years old)","Never"
+55,1,1,"The Philippines",42,"Female","Urban","College/University","Yes, all of the time"
+56,1,1,"Indonesia",43,"Female","Rural","Elementary (usually until 12 years old)","Never"
+57,1,1,"Indonesia",50,"Female","Rural","Secondary (usually until 18 years old)","Never"
+58,1,0.8,"Indonesia",42,"Female","Rural","Secondary (usually until 18 years old)","Sometimes"
+59,0,1,"Indonesia",35,"Female","Rural","Elementary (usually until 12 years old)","Never"
+60,0,0.6,"Indonesia",26,"Female","Rural","Secondary (usually until 18 years old)","Sometimes"
+61,0,1,"Nepal",28,"Female","Urban","Elementary (usually until 12 years old)","Never"
+62,0,1,"Indonesia",47,"Female","Rural","Elementary (usually until 12 years old)","Never"
+63,1,1,"Indonesia",27,"Female","Rural","Secondary (usually until 18 years old)","Often"
+64,1,1,"Indonesia",29,"Female","Rural","Secondary (usually until 18 years old)","Never"
+65,0,1,"Indonesia",47,"Female","Urban","Secondary (usually until 18 years old)","Never"
+66,1,1,"Indonesia",36,"Female","Rural","Secondary (usually until 18 years old)","Never"
+67,1,NA,"Indonesia",28,"Female","Rural","Postgraduate studies (Masters or Phd)","Often"
+68,1,0.8,"Indonesia",25,"Female","Urban","Secondary (usually until 18 years old)","Never"
+69,0,0.6,"The Philippines",31,"Female","Urban","College/University","Never"
+70,1,1,"The Philippines",29,"Female","Rural","Secondary (usually until 18 years old)","Sometimes"
+71,1,1,"The Philippines",43,"Female","Urban","Secondary (usually until 18 years old)","Never"
+72,0,1,"The Philippines",40,"Female","Rural","College/University","Refused to answer"
+73,0,0.25,"The Philippines",43,"Female","Rural","College/University","Sometimes"
+74,1,1,"The Philippines",36,"Female","Urban","Secondary (usually until 18 years old)","Refused to answer"
+75,0,1,"The Philippines",33,"Female","Rural","Secondary (usually until 18 years old)","Rarely"
+76,0,1,"The Philippines",36,"Female","Urban","Secondary (usually until 18 years old)","Often"
+77,1,0.5,"The Philippines",35,"Female","Rural","College/University","Never"
+78,0,0.6,"The Philippines",27,"Female","Refused to answer","College/University","Rarely"
+79,0,0.75,"The Philippines",29,"Female","Urban","Secondary (usually until 18 years old)","Rarely"
+80,1,0.2,"The Philippines",38,"Female","Rural","Refused to answer","Rarely"
+81,1,1,"The Philippines",50,"Female","Rural","College/University","Refused to answer"
+82,1,0.8,"Indonesia",34,"Female","Rural","Secondary (usually until 18 years old)","Never"
+83,1,1,"Indonesia",34,"Female","Rural","Secondary (usually until 18 years old)","Never"
+84,1,0.8,"Indonesia",45,"Female","Urban","Secondary (usually until 18 years old)","Never"
+85,1,0.8,"The Philippines",31,"Female","Urban","College/University","Sometimes"
+86,0,1,"The Philippines",52,"Female","Urban","College/University","Never"
+87,1,1,"The Philippines",38,"Female","Urban","College/University","Never"
+88,1,1,"The Philippines",45,"Female","Urban","College/University","Yes, all of the time"
+89,1,0.8,"The Philippines",35,"Female","Urban","Secondary (usually until 18 years old)","Never"
+90,0,0.8,"The Philippines",41,"Female","Rural","College/University","Never"
+91,1,1,"The Philippines",31,"Female","Urban","Secondary (usually until 18 years old)","Never"
+92,0,0.5,"The Philippines",43,"Female","Urban","College/University","Never"
+93,1,1,"The Philippines",38,"Female","Urban","Secondary (usually until 18 years old)","Sometimes"
+94,1,1,"The Philippines",49,"Female","Urban","College/University","Never"
+95,1,0.8,"The Philippines",46,"Female","Urban","College/University","Never"
+96,0,1,"The Philippines",42,"Female","Urban","College/University","Yes, all of the time"
+97,1,0.6,"The Philippines",35,"Female","Rural","Secondary (usually until 18 years old)","Often"
+98,1,1,"The Philippines",34,"Female","Rural","Postgraduate studies (Masters or Phd)","Never"
+99,0,1,"The Philippines",51,"Female","Rural","Secondary (usually until 18 years old)","Refused to answer"
+100,0,0.75,"The Philippines",33,"Female","Urban","Secondary (usually until 18 years old)","Sometimes"
+101,1,0.75,"Indonesia",41,"Female","Urban","Elementary (usually until 12 years old)","Never"
+102,1,0.8,"Indonesia",30,"Female","Rural","Secondary (usually until 18 years old)","Never"
+103,1,0.8,"Indonesia",42,"Female","Rural","Secondary (usually until 18 years old)","Never"
+104,0,1,"Indonesia",40,"Female","Rural","Secondary (usually until 18 years old)","Rarely"
+105,0,1,"Indonesia",41,"Female","Rural","Secondary (usually until 18 years old)","Never"
+106,1,1,"Indonesia",38,"Female","Rural","Secondary (usually until 18 years old)","Never"
+107,1,0.75,"Indonesia",37,"Female","Rural","Secondary (usually until 18 years old)","Never"
+108,0,1,"Indonesia",35,"Female","Rural","Secondary (usually until 18 years old)","Often"
+109,1,1,"The Philippines",37,"Female","Rural","College/University","Never"
+110,1,1,"The Philippines",44,"Female","Rural","Secondary (usually until 18 years old)","Sometimes"
+111,0,1,"The Philippines",32,"Female","Rural","Secondary (usually until 18 years old)","Never"
+112,1,0.75,"The Philippines",48,"Female","Urban","Secondary (usually until 18 years old)","Sometimes"
+113,0,0.75,"The Philippines",36,"Female","Urban","College/University","Never"
+114,0,0.6,"Indonesia",30,"Female","Rural","Secondary (usually until 18 years old)","Sometimes"
+115,1,1,"Indonesia",49,"Female","Urban","Secondary (usually until 18 years old)","Sometimes"
+116,1,0.5,"Indonesia",48,"Female","Rural","Secondary (usually until 18 years old)","Never"
+117,1,1,"Indonesia",38,"Female","Rural","Elementary (usually until 12 years old)","Never"
+118,1,0.5,"Indonesia",30,"Female","Rural","Secondary (usually until 18 years old)","Rarely"
+119,0,0.666666666666667,"Indonesia",35,"Female","Urban","Secondary (usually until 18 years old)","Rarely"
+120,0,0.75,"Indonesia",26,"Female","Urban","College/University","Never"
+121,0,0.6,"Indonesia",36,"Female","Rural","Elementary (usually until 12 years old)","Never"
+122,1,0.8,"Indonesia",37,"Female","Rural","Secondary (usually until 18 years old)","Yes, all of the time"
+123,0,1,"Indonesia",38,"Female","Urban","Secondary (usually until 18 years old)","Never"
+124,0,0.8,"The Philippines",34,"Female","Urban","Secondary (usually until 18 years old)","Never"
+125,1,0,"Indonesia",36,"Female","Urban","Secondary (usually until 18 years old)","Yes, all of the time"
+126,1,1,"Indonesia",34,"Female","Rural","Secondary (usually until 18 years old)","Sometimes"
+127,1,0.666666666666667,"Indonesia",35,"Female","Urban","Secondary (usually until 18 years old)","Never"
+128,1,1,"Indonesia",39,"Female","Urban","No completed formal education","Never"
+129,1,0.75,"Nepal",27,"Female","Urban","Elementary (usually until 12 years old)","Sometimes"
+130,0,1,"Nepal",35,"Female","Urban","No completed formal education","Sometimes"
+131,1,1,"Nepal",41,"Female","Urban","No completed formal education","Never"
+132,0,0.8,"The Philippines",34,"Female","Rural","Secondary (usually until 18 years old)","Never"
+133,1,1,"The Philippines",32,"Female","Rural","College/University","Never"
+134,1,0.8,"Indonesia",34,"Female","Rural","Secondary (usually until 18 years old)","Never"
+135,0,1,"Indonesia",35,"Female","Urban","Secondary (usually until 18 years old)","Never"
+136,1,0.8,"Indonesia",30,"Female","Rural","Secondary (usually until 18 years old)","Never"
+137,0,1,"The Philippines",40,"Female","Rural","College/University","Sometimes"
+138,1,1,"The Philippines",38,"Female","Urban","Secondary (usually until 18 years old)","Never"
+139,1,1,"The Philippines",29,"Female","Rural","College/University","Never"
+140,0,0.8,"The Philippines",32,"Female","Rural","Secondary (usually until 18 years old)","Never"
+141,1,1,"The Philippines",30,"Female","Rural","Secondary (usually until 18 years old)","Never"
+142,1,0.75,"The Philippines",30,"Female","Rural","College/University","Refused to answer"
+143,0,0.4,"The Philippines",35,"Female","Rural","Secondary (usually until 18 years old)","Rarely"
+144,1,0.8,"The Philippines",37,"Female","Rural","Secondary (usually until 18 years old)","Never"
+145,1,0.75,"The Philippines",30,"Female","Urban","College/University","Yes, all of the time"
+146,1,1,"The Philippines",34,"Female","Rural","College/University","Yes, all of the time"
+147,1,1,"The Philippines",43,"Female","Rural","Secondary (usually until 18 years old)","Rarely"
+148,0,1,"The Philippines",41,"Female","Urban","Secondary (usually until 18 years old)","Sometimes"
+149,1,1,"The Philippines",46,"Female","Urban","College/University","Never"
+150,0,1,"The Philippines",34,"Female","Rural","College/University","Often"
+151,0,0.25,"The Philippines",46,"Female","Rural","Postgraduate studies (Masters or Phd)","Yes, all of the time"
+152,0,1,"The Philippines",48,"Female","Rural","College/University","Never"
+153,1,1,"The Philippines",30,"Female","Rural","College/University","Sometimes"
+154,1,1,"The Philippines",55,"Female","Rural","Secondary (usually until 18 years old)","Never"
+155,0,1,"The Philippines",36,"Female","Urban","College/University","Never"
+156,0,1,"The Philippines",48,"Female","Urban","Secondary (usually until 18 years old)","Never"
+157,0,1,"The Philippines",47,"Female","Rural","College/University","Yes, all of the time"
+158,0,1,"The Philippines",53,"Female","Rural","Secondary (usually until 18 years old)","Never"
+159,0,1,"The Philippines",50,"Female","Rural","Secondary (usually until 18 years old)","Never"
+160,1,1,"The Philippines",28,"Female","Rural","College/University","Yes, all of the time"
+161,1,0.6,"The Philippines",58,"Female","Rural","Secondary (usually until 18 years old)","Never"
+162,0,0.8,"The Philippines",28,"Female","Urban","College/University","Sometimes"
+163,1,1,"The Philippines",33,"Female","Rural","Secondary (usually until 18 years old)","Never"
+164,1,0.8,"The Philippines",34,"Female","Urban","Secondary (usually until 18 years old)","Never"
+165,0,1,"The Philippines",33,"Female","Rural","College/University","Never"
+166,1,1,"The Philippines",39,"Female","Rural","Secondary (usually until 18 years old)","Never"
+167,0,0.8,"The Philippines",50,"Female","Rural","College/University","Sometimes"
+168,1,0.75,"The Philippines",26,"Female","Urban","Secondary (usually until 18 years old)","Never"
+169,0,0.75,"The Philippines",33,"Female","Urban","Secondary (usually until 18 years old)","Never"
+170,0,0.6,"The Philippines",30,"Female","Urban","Secondary (usually until 18 years old)","Never"
+171,1,0.8,"The Philippines",32,"Female","Rural","College/University","Yes, all of the time"
+172,1,0.8,"The Philippines",41,"Female","Urban","Secondary (usually until 18 years old)","Never"
+173,1,0.75,"The Philippines",28,"Female","Rural","Refused to answer","Yes, all of the time"
+174,0,0.6,"The Philippines",38,"Female","Urban","College/University","Rarely"
+175,0,0.8,"The Philippines",47,"Female","Rural","Secondary (usually until 18 years old)","Sometimes"
+176,0,1,"The Philippines",38,"Female","Rural","College/University","Never"
+177,1,1,"The Philippines",38,"Female","Rural","Refused to answer","Never"
+178,1,1,"The Philippines",39,"Female","Urban","Secondary (usually until 18 years old)","Never"
+179,1,1,"The Philippines",42,"Female","Urban","College/University","Never"
+180,1,1,"The Philippines",36,"Female","Urban","College/University","Never"
+181,1,0.8,"The Philippines",33,"Female","Rural","Secondary (usually until 18 years old)","Never"
+182,0,1,"The Philippines",35,"Female","Rural","Secondary (usually until 18 years old)","Never"
+183,0,0.8,"The Philippines",42,"Female","Rural","College/University","Never"
+184,1,0.8,"The Philippines",26,"Female","Rural","Secondary (usually until 18 years old)","Never"
+185,1,0.8,"The Philippines",40,"Female","Rural","College/University","Never"
+186,0,0.75,"The Philippines",24,"Female","Rural","College/University","Never"
+187,1,1,"The Philippines",27,"Female","Rural","Secondary (usually until 18 years old)","Yes, all of the time"
+188,1,0.6,"The Philippines",35,"Female","Rural","Secondary (usually until 18 years old)","Never"
+189,0,0.75,"The Philippines",28,"Female","Rural","Secondary (usually until 18 years old)","Sometimes"
+190,0,0.8,"The Philippines",48,"Female","Rural","Secondary (usually until 18 years old)","Never"
+191,1,1,"The Philippines",29,"Female","Rural","College/University","Never"
+192,0,1,"The Philippines",33,"Female","Rural","College/University","Never"
+193,1,0.8,"The Philippines",45,"Female","Urban","College/University","Never"
+194,0,1,"The Philippines",30,"Female","Urban","College/University","Never"
+195,1,0.8,"The Philippines",29,"Female","Urban","College/University","Yes, all of the time"
+196,0,1,"The Philippines",37,"Female","Urban","College/University","Yes, all of the time"
+197,0,1,"The Philippines",51,"Female","Urban","College/University","Yes, all of the time"
+198,1,1,"The Philippines",52,"Female","Urban","College/University","Yes, all of the time"
+199,1,0.75,"The Philippines",47,"Female","Urban","College/University","Yes, all of the time"
+200,1,1,"The Philippines",36,"Female","Rural","Elementary (usually until 12 years old)","Never"
+201,0,1,"Indonesia",42,"Female","Rural","Secondary (usually until 18 years old)","Never"
+202,0,1,"Indonesia",48,"Female","Rural","Elementary (usually until 12 years old)","Never"
+203,1,1,"Indonesia",44,"Female","Rural","Secondary (usually until 18 years old)","Never"
+204,1,0.8,"Indonesia",37,"Female","Rural","College/University","Sometimes"
+205,0,1,"Indonesia",25,"Female","Urban","Secondary (usually until 18 years old)","Never"
+206,1,1,"Indonesia",34,"Female","Rural","Secondary (usually until 18 years old)","Never"
+207,1,1,"Indonesia",32,"Female","Rural","Elementary (usually until 12 years old)","Never"
+208,1,1,"Indonesia",22,"Female","Rural","Secondary (usually until 18 years old)","Never"
+209,0,0.8,"Indonesia",42,"Female","Rural","Secondary (usually until 18 years old)","Never"
+210,0,0,"Indonesia",59,"Female","Rural","Elementary (usually until 12 years old)","Never"
+211,0,0.8,"Indonesia",37,"Female","Urban","Secondary (usually until 18 years old)","Sometimes"
+212,1,1,"Indonesia",28,"Female","Rural","Secondary (usually until 18 years old)","Never"
+213,0,1,"Indonesia",30,"Female","Rural","Secondary (usually until 18 years old)","Never"
+214,1,0.8,"Indonesia",35,"Female","Rural","Secondary (usually until 18 years old)","Never"
+215,0,0.75,"Indonesia",36,"Female","Rural","Secondary (usually until 18 years old)","Often"
+216,1,0.8,"Indonesia",37,"Female","Urban","Secondary (usually until 18 years old)","Yes, all of the time"
+217,1,1,"Indonesia",42,"Female","Rural","Elementary (usually until 12 years old)","Never"
+218,1,0.8,"Indonesia",41,"Female","Rural","Elementary (usually until 12 years old)","Never"
+219,0,0.6,"Indonesia",47,"Female","Rural","Secondary (usually until 18 years old)","Never"
+220,0,1,"Indonesia",32,"Female","Rural","Elementary (usually until 12 years old)","Never"
+221,1,1,"Indonesia",41,"Female","Rural","Elementary (usually until 12 years old)","Never"
+222,1,1,"Indonesia",36,"Female","Urban","Secondary (usually until 18 years old)","Never"
+223,1,1,"Indonesia",40,"Female","Rural","Secondary (usually until 18 years old)","Never"
+224,0,0,"Indonesia",36,"Female","Rural","Secondary (usually until 18 years old)","Never"
+225,0,0.6,"Indonesia",35,"Female","Rural","Elementary (usually until 12 years old)","Sometimes"
+226,0,0.75,"The Philippines",29,"Female","Urban","College/University","Yes, all of the time"
+227,1,1,"The Philippines",42,"Female","Rural","Secondary (usually until 18 years old)","Never"
+228,0,1,"The Philippines",27,"Female","Rural","College/University","Never"
+229,0,0.8,"The Philippines",44,"Female","Refused to answer","Secondary (usually until 18 years old)","Never"
+230,0,0.8,"The Philippines",43,"Female","Rural","College/University","Never"
+231,0,0.6,"The Philippines",45,"Female","Urban","Secondary (usually until 18 years old)","Yes, all of the time"
+232,1,0.5,"The Philippines",54,"Female","Urban","Secondary (usually until 18 years old)","Yes, all of the time"
+233,0,0.8,"Indonesia",30,"Female","Rural","Secondary (usually until 18 years old)","Never"
+234,1,0.8,"Indonesia",35,"Female","Rural","No completed formal education","Rarely"
+235,0,0.8,"Indonesia",40,"Female","Rural","Secondary (usually until 18 years old)","Rarely"
+236,1,1,"Indonesia",42,"Female","Rural","Secondary (usually until 18 years old)","Rarely"
+237,1,1,"Nepal",43,"Female","Rural","Elementary (usually until 12 years old)","Never"
+238,0,1,"Nepal",40,"Female","Rural","Elementary (usually until 12 years old)","Never"
+239,0,1,"Nepal",37,"Female","Urban","Elementary (usually until 12 years old)","Never"
+240,1,1,"Nepal",NA,"Female","Rural","No completed formal education","Never"
+241,1,0.2,"The Philippines",45,"Female","Rural","Secondary (usually until 18 years old)","Refused to answer"
+242,0,1,"The Philippines",49,"Female","Rural","College/University","Refused to answer"
+243,0,1,"The Philippines",41,"Female","Urban","Secondary (usually until 18 years old)","Never"
+244,1,0.5,"The Philippines",42,"Female","Rural","Secondary (usually until 18 years old)","Never"
+245,1,1,"The Philippines",42,"Female","Rural","College/University","Never"
+246,1,1,"Nepal",32,"Female","Urban","Elementary (usually until 12 years old)","Never"
+247,0,0.6,"The Philippines",34,"Female","Urban","Secondary (usually until 18 years old)","Never"
+248,1,0.8,"The Philippines",39,"Female","Urban","College/University","Never"
+249,1,1,"The Philippines",38,"Female","Urban","Secondary (usually until 18 years old)","Sometimes"
+250,1,1,"The Philippines",61,"Female","Rural","College/University","Sometimes"
+251,0,1,"The Philippines",50,"Female","Urban","Postgraduate studies (Masters or Phd)","Never"
+252,0,1,"The Philippines",41,"Female","Urban","College/University","Refused to answer"
+253,1,0.2,"The Philippines",40,"Female","Rural","College/University","Never"
+254,0,0.6,"The Philippines",51,"Female","Rural","Secondary (usually until 18 years old)","Never"
+255,1,0,"The Philippines",47,"Female","Rural","Secondary (usually until 18 years old)","Never"
+256,1,0.4,"The Philippines",37,"Female","Rural","College/University","Never"
+257,0,0.75,"The Philippines",38,"Female","Rural","College/University","Never"
+258,0,0.4,"The Philippines",42,"Female","Rural","College/University","Never"
+259,0,0.8,"The Philippines",34,"Female","Rural","College/University","Never"
+260,1,0.5,"Indonesia",34,"Female","Urban","Secondary (usually until 18 years old)","Never"
+261,1,0.8,"Indonesia",27,"Female","Rural","Elementary (usually until 12 years old)","Never"
+262,1,1,"Indonesia",49,"Female","Urban","Secondary (usually until 18 years old)","Yes, all of the time"
+263,1,0.8,"Indonesia",33,"Female","Rural","Secondary (usually until 18 years old)","Never"
+264,1,1,"Indonesia",30,"Female","Rural","Secondary (usually until 18 years old)","Never"
+265,1,0.25,"The Philippines",32,"Female","Rural","College/University","Never"
+266,0,1,"The Philippines",35,"Female","Rural","College/University","Yes, all of the time"
+267,1,0.25,"The Philippines",44,"Female","Rural","Secondary (usually until 18 years old)","Yes, all of the time"
+268,1,1,"The Philippines",27,"Female","Rural","College/University","Yes, all of the time"
+269,1,1,"The Philippines",43,"Female","Rural","College/University","Yes, all of the time"
+270,0,0.6,"The Philippines",48,"Female","Rural","College/University","Never"
+271,1,1,"The Philippines",39,"Female","Urban","Secondary (usually until 18 years old)","Never"
+272,0,0.5,"The Philippines",44,"Female","Urban","College/University","Sometimes"
+273,1,0.4,"The Philippines",25,"Female","Rural","Secondary (usually until 18 years old)","Yes, all of the time"
+274,1,1,"The Philippines",32,"Female","Refused to answer","Secondary (usually until 18 years old)","Never"
+275,0,0.75,"The Philippines",34,"Female","Urban","College/University","Never"
+276,1,1,"The Philippines",29,"Female","Urban","Secondary (usually until 18 years old)","Never"
+277,0,1,"The Philippines",50,"Female","Rural","College/University","Refused to answer"
+278,1,1,"The Philippines",40,"Female","Rural","Secondary (usually until 18 years old)","Never"
+279,1,1,"The Philippines",34,"Female","Urban","College/University","Never"
+280,1,1,"The Philippines",36,"Female","Urban","Secondary (usually until 18 years old)","Never"
+281,0,1,"The Philippines",29,"Female","Rural","Secondary (usually until 18 years old)","Never"
+282,0,0.333333333333333,"The Philippines",42,"Female","Urban","College/University","Often"
+283,1,1,"The Philippines",28,"Female","Urban","Secondary (usually until 18 years old)","Yes, all of the time"
+284,0,0.8,"The Philippines",29,"Female","Urban","College/University","Never"
+285,0,1,"The Philippines",36,"Female","Rural","Secondary (usually until 18 years old)","Never"
+286,1,1,"The Philippines",43,"Female","Rural","College/University","Yes, all of the time"
+287,0,0.6,"The Philippines",27,"Female","Rural","College/University","Never"
+288,0,1,"The Philippines",33,"Female","Urban","Secondary (usually until 18 years old)","Never"
+289,1,0.8,"The Philippines",32,"Female","Rural","College/University","Never"
+290,0,0,"The Philippines",31,"Female","Rural","Secondary (usually until 18 years old)","Refused to answer"
+291,1,0.25,"The Philippines",41,"Female","Rural","College/University","Sometimes"
+292,0,0.8,"The Philippines",48,"Female","Refused to answer","College/University","Never"
+293,0,0.5,"The Philippines",31,"Female","Rural","College/University","Refused to answer"
+294,1,1,"The Philippines",39,"Female","Rural","College/University","Never"
+295,0,0.8,"The Philippines",52,"Female","Urban","Secondary (usually until 18 years old)","Never"
+296,0,0.4,"The Philippines",31,"Female","Rural","College/University","Never"
+297,1,0.25,"The Philippines",32,"Female","Rural","College/University","Sometimes"
+298,1,0.6,"The Philippines",40,"Female","Urban","Secondary (usually until 18 years old)","Refused to answer"
+299,0,1,"The Philippines",38,"Female","Rural","Secondary (usually until 18 years old)","Never"
+300,0,0.8,"The Philippines",28,"Female","Urban","Secondary (usually until 18 years old)","Never"
+301,1,1,"The Philippines",42,"Female","Refused to answer","Secondary (usually until 18 years old)","Refused to answer"
+302,0,1,"The Philippines",42,"Female","Rural","College/University","Never"
+303,1,1,"The Philippines",41,"Female","Urban","College/University","Never"
+304,1,0.333333333333333,"The Philippines",26,"Female","Rural","Secondary (usually until 18 years old)","Never"
+305,0,1,"The Philippines",26,"Female","Urban","Secondary (usually until 18 years old)","Rarely"
+306,1,1,"The Philippines",29,"Female","Urban","College/University","Rarely"
+307,1,1,"The Philippines",35,"Female","Urban","Secondary (usually until 18 years old)","Never"
+308,1,0.8,"The Philippines",32,"Female","Urban","Secondary (usually until 18 years old)","Never"
+309,1,1,"The Philippines",38,"Female","Rural","Secondary (usually until 18 years old)","Never"
+310,0,1,"Indonesia",30,"Female","Rural","Secondary (usually until 18 years old)","Sometimes"
+311,1,0,"Indonesia",22,"Female","Rural","Secondary (usually until 18 years old)","Never"
+312,0,0,"Indonesia",43,"Female","Rural","Elementary (usually until 12 years old)","Never"
+313,1,0,"Indonesia",41,"Female","Rural","Elementary (usually until 12 years old)","Never"
+314,1,NA,"Indonesia",24,"Female","Rural","Elementary (usually until 12 years old)","Never"
+315,0,0,"Indonesia",25,"Female","Rural","No completed formal education","Never"
+316,1,0.75,"Indonesia",29,"Female","Rural","Elementary (usually until 12 years old)","Never"
+317,1,1,"Indonesia",38,"Female","Rural","Secondary (usually until 18 years old)","Never"
+318,1,1,"Indonesia",32,"Female","Rural","Secondary (usually until 18 years old)","Never"
+319,1,NA,"Indonesia",37,"Female","Rural","Secondary (usually until 18 years old)","Refused to answer"
+320,0,1,"Indonesia",36,"Female","Rural","No completed formal education","Never"
+321,0,1,"Indonesia",44,"Female","Rural","Secondary (usually until 18 years old)","Never"
+322,0,0.8,"Indonesia",27,"Female","Urban","Secondary (usually until 18 years old)","Never"
+323,1,1,"Indonesia",40,"Female","Rural","Secondary (usually until 18 years old)","Never"
+324,1,0.8,"The Philippines",33,"Female","Rural","College/University","Never"
+325,1,0.6,"The Philippines",36,"Female","Urban","College/University","Rarely"
+326,0,0.8,"The Philippines",28,"Female","Urban","College/University","Never"
+327,0,0.6,"The Philippines",27,"Female","Urban","College/University","Rarely"
+328,1,0.8,"Indonesia",32,"Female","Rural","Secondary (usually until 18 years old)","Never"
+329,1,1,"Indonesia",32,"Female","Rural","Secondary (usually until 18 years old)","Never"
+330,0,0.8,"Indonesia",45,"Female","Rural","Elementary (usually until 12 years old)","Never"
+331,0,0.8,"Indonesia",37,"Female","Rural","Elementary (usually until 12 years old)","Sometimes"
+332,0,0.75,"Indonesia",23,"Female","Rural","Elementary (usually until 12 years old)","Never"
+333,1,0.8,"Indonesia",35,"Female","Rural","Secondary (usually until 18 years old)","Rarely"
+334,0,1,"Indonesia",27,"Female","Rural","Secondary (usually until 18 years old)","Never"
+335,1,0,"Indonesia",29,"Female","Rural","Secondary (usually until 18 years old)","Yes, all of the time"
+336,0,1,"Indonesia",27,"Female","Rural","Secondary (usually until 18 years old)","Sometimes"
+337,1,0,"Indonesia",30,"Female","Rural","Secondary (usually until 18 years old)","Never"
+338,1,0.6,"The Philippines",32,"Female","Urban","Secondary (usually until 18 years old)","Never"
+339,1,1,"The Philippines",32,"Female","Urban","Secondary (usually until 18 years old)","Refused to answer"
+340,1,0.5,"The Philippines",38,"Female","Rural","College/University","Refused to answer"
+341,1,0.8,"The Philippines",35,"Female","Rural","Secondary (usually until 18 years old)","Never"
+342,0,1,"Nepal",38,"Female","Rural","No completed formal education","Never"
+343,1,1,"Nepal",47,"Female","Urban","No completed formal education","Never"
+344,1,1,"Nepal",41,"Female","Rural","Elementary (usually until 12 years old)","Never"
+345,1,1,"Nepal",29,"Female","Rural","Elementary (usually until 12 years old)","Never"
+346,0,1,"Nepal",49,"Female","Rural","No completed formal education","Never"
+347,0,1,"Nepal",40,"Female","Rural","Elementary (usually until 12 years old)","Never"
+348,1,1,"Nepal",26,"Female","Rural","Elementary (usually until 12 years old)","Sometimes"
+349,1,1,"Indonesia",35,"Female","Urban","Secondary (usually until 18 years old)","Sometimes"
+350,1,1,"Indonesia",33,"Female","Rural","Secondary (usually until 18 years old)","Sometimes"
+351,0,1,"Indonesia",23,"Female","Rural","Secondary (usually until 18 years old)","Never"
+352,1,1,"Indonesia",28,"Female","Rural","Secondary (usually until 18 years old)","Never"
+353,0,0.25,"Indonesia",26,"Female","Rural","Secondary (usually until 18 years old)","Sometimes"
+354,1,1,"Indonesia",36,"Female","Rural","Elementary (usually until 12 years old)","Never"
+355,1,1,"Indonesia",34,"Female","Rural","Elementary (usually until 12 years old)","Never"
+356,0,0.75,"Indonesia",45,"Female","Rural","Elementary (usually until 12 years old)","Never"
+357,0,1,"Indonesia",40,"Female","Rural","Secondary (usually until 18 years old)","Never"
+358,0,1,"Indonesia",29,"Female","Urban","Elementary (usually until 12 years old)","Never"
+359,0,1,"The Philippines",44,"Female","Rural","Secondary (usually until 18 years old)","Never"
+360,1,1,"The Philippines",41,"Female","Urban","Secondary (usually until 18 years old)","Never"
+361,0,0.8,"The Philippines",35,"Female","Rural","Secondary (usually until 18 years old)","Never"
+362,1,0.8,"The Philippines",36,"Female","Urban","College/University","Never"
+363,1,1,"The Philippines",32,"Female","Urban","Secondary (usually until 18 years old)","Yes, all of the time"
+364,1,0.8,"Indonesia",25,"Female","Rural","Secondary (usually until 18 years old)","Rarely"
+365,0,1,"Indonesia",41,"Female","Urban","Secondary (usually until 18 years old)","Never"
+366,0,0.8,"The Philippines",52,"Female","Rural","Secondary (usually until 18 years old)","Never"
+367,1,0.5,"The Philippines",48,"Female","Rural","Secondary (usually until 18 years old)","Never"
+368,1,0.25,"The Philippines",37,"Female","Urban","Secondary (usually until 18 years old)","Never"
+369,1,0.75,"The Philippines",33,"Female","Rural","College/University","Sometimes"
+370,0,0.75,"The Philippines",40,"Female","Rural","College/University","Rarely"
+371,1,0.75,"The Philippines",42,"Female","Rural","Secondary (usually until 18 years old)","Never"
+372,1,1,"The Philippines",36,"Female","Rural","College/University","Rarely"
+373,0,0.8,"The Philippines",32,"Female","Rural","College/University","Never"
+374,1,0.6,"The Philippines",34,"Female","Rural","College/University","Never"
+375,0,0.8,"The Philippines",45,"Female","Urban","Secondary (usually until 18 years old)","Never"
+376,0,0.8,"The Philippines",49,"Female","Rural","College/University","Never"
+377,0,1,"The Philippines",28,"Female","Rural","Secondary (usually until 18 years old)","Never"
+378,1,1,"The Philippines",41,"Female","Rural","Secondary (usually until 18 years old)","Never"
+379,1,0.5,"The Philippines",29,"Female","Rural","Secondary (usually until 18 years old)","Yes, all of the time"
+380,1,1,"The Philippines",33,"Female","Rural","Secondary (usually until 18 years old)","Never"
+381,1,0.4,"The Philippines",40,"Female","Urban","Elementary (usually until 12 years old)","Never"
+382,1,1,"The Philippines",30,"Female","Rural","College/University","Yes, all of the time"
+383,1,1,"The Philippines",30,"Female","Rural","College/University","Never"
+384,0,0.8,"The Philippines",30,"Female","Urban","Postgraduate studies (Masters or Phd)","Yes, all of the time"
+385,1,1,"The Philippines",40,"Female","Urban","College/University","Yes, all of the time"
+386,0,1,"The Philippines",33,"Female","Rural","College/University","Never"
+387,1,1,"The Philippines",39,"Female","Urban","College/University","Never"
+388,0,0.8,"The Philippines",47,"Female","Urban","College/University","Yes, all of the time"
+389,0,1,"The Philippines",40,"Female","Urban","College/University","Never"
+390,0,1,"The Philippines",26,"Female","Urban","Secondary (usually until 18 years old)","Never"
+391,0,0.8,"The Philippines",37,"Female","Rural","College/University","Never"
+392,1,1,"The Philippines",34,"Female","Rural","Secondary (usually until 18 years old)","Sometimes"
+393,1,1,"The Philippines",25,"Female","Urban","College/University","Sometimes"
+394,0,1,"The Philippines",48,"Female","Urban","College/University","Yes, all of the time"
+395,0,0.75,"The Philippines",42,"Female","Urban","College/University","Sometimes"
+396,0,1,"The Philippines",35,"Female","Rural","Secondary (usually until 18 years old)","Yes, all of the time"
+397,1,0.8,"Indonesia",32,"Female","Rural","Elementary (usually until 12 years old)","Never"
+398,0,0.8,"Indonesia",35,"Female","Rural","Elementary (usually until 12 years old)","Sometimes"
+399,1,0.8,"Indonesia",25,"Female","Rural","Secondary (usually until 18 years old)","Never"
+400,1,0.8,"Indonesia",42,"Female","Rural","Elementary (usually until 12 years old)","Never"
+401,0,1,"Indonesia",35,"Female","Rural","Elementary (usually until 12 years old)","Never"
+402,0,0.8,"The Philippines",25,"Female","Rural","College/University","Sometimes"
+403,1,0.4,"The Philippines",42,"Female","Urban","College/University","Never"
+404,0,0.8,"The Philippines",45,"Female","Rural","Secondary (usually until 18 years old)","Never"
+405,1,1,"Indonesia",31,"Female","Rural","Secondary (usually until 18 years old)","Never"
+406,0,NA,"Indonesia",36,"Female","Refused to answer","Secondary (usually until 18 years old)","Refused to answer"
+407,0,1,"The Philippines",37,"Female","Urban","Secondary (usually until 18 years old)","Never"
+408,0,0.4,"The Philippines",31,"Female","Rural","Secondary (usually until 18 years old)","Yes, all of the time"
+409,1,1,"The Philippines",46,"Female","Rural","College/University","Never"
+410,1,1,"The Philippines",40,"Female","Rural","College/University","Never"
+411,1,0.8,"The Philippines",40,"Female","Rural","College/University","Never"
+412,1,0.6,"The Philippines",35,"Female","Rural","College/University","Never"
+413,0,1,"Indonesia",29,"Female","Rural","Secondary (usually until 18 years old)","Never"
+414,0,0.8,"Indonesia",32,"Female","Rural","Secondary (usually until 18 years old)","Rarely"
+415,1,0.6,"Indonesia",35,"Female","Rural","Elementary (usually until 12 years old)","Often"
+416,0,0.8,"Indonesia",29,"Female","Rural","Secondary (usually until 18 years old)","Sometimes"
+417,1,0.4,"The Philippines",37,"Female","Rural","College/University","Yes, all of the time"
+418,0,1,"The Philippines",33,"Female","Urban","Secondary (usually until 18 years old)","Sometimes"
+419,0,0.8,"The Philippines",36,"Female","Rural","Secondary (usually until 18 years old)","Rarely"
+420,0,1,"The Philippines",45,"Female","Rural","College/University","Never"
+421,0,1,"Nepal",31,"Female","Urban","Elementary (usually until 12 years old)","Sometimes"
+422,1,1,"Nepal",39,"Female","Rural","No completed formal education","Never"
+423,1,1,"Nepal",32,"Female","Urban","College/University","Never"
+424,1,1,"Nepal",40,"Female","Urban","No completed formal education","Never"
+425,0,1,"Nepal",35,"Female","Rural","No completed formal education","Never"
+426,1,0.4,"The Philippines",28,"Female","Urban","College/University","Sometimes"
+427,1,0.4,"The Philippines",41,"Female","Urban","Secondary (usually until 18 years old)","Sometimes"
+428,1,0,"The Philippines",36,"Female","Rural","College/University","Rarely"
+429,1,0.2,"The Philippines",36,"Female","Urban","College/University","Sometimes"
+430,1,0.2,"The Philippines",40,"Female","Rural","No completed formal education","Sometimes"
+431,0,0.8,"The Philippines",27,"Female","Urban","College/University","Rarely"
+432,1,1,"The Philippines",46,"Female","Urban","College/University","Rarely"
+433,1,0.8,"The Philippines",30,"Female","Urban","College/University","Rarely"
+434,0,0.6,"The Philippines",45,"Female","Urban","College/University","Never"
+435,1,1,"Indonesia",40,"Female","Rural","College/University","Sometimes"
+436,1,0.8,"Indonesia",33,"Female","Rural","Secondary (usually until 18 years old)","Never"
+437,1,1,"Indonesia",45,"Female","Rural","Secondary (usually until 18 years old)","Sometimes"
+438,1,0.5,"Indonesia",30,"Female","Rural","Secondary (usually until 18 years old)","Never"
+439,0,1,"The Philippines",57,"Female","Rural","College/University","Never"
+440,1,1,"The Philippines",38,"Female","Urban","College/University","Never"
+441,1,1,"The Philippines",25,"Female","Rural","Elementary (usually until 12 years old)","Never"
+442,1,0.5,"The Philippines",41,"Female","Urban","College/University","Sometimes"
+443,0,0,"The Philippines",56,"Female","Rural","Secondary (usually until 18 years old)","Sometimes"
+444,0,0.5,"Indonesia",43,"Female","Urban","Elementary (usually until 12 years old)","Never"
+445,1,0,"Indonesia",37,"Female","Rural","Secondary (usually until 18 years old)","Never"
+446,0,1,"Indonesia",32,"Female","Rural","Secondary (usually until 18 years old)","Never"
+447,0,1,"Indonesia",30,"Female","Rural","Secondary (usually until 18 years old)","Never"
+448,1,0.2,"Indonesia",36,"Female","Urban","College/University","Rarely"
+449,0,0.2,"Indonesia",36,"Female","Urban","College/University","Often"
+450,0,0.4,"Indonesia",42,"Female","Rural","College/University","Yes, all of the time"
+451,1,0.8,"Indonesia",52,"Female","Urban","Secondary (usually until 18 years old)","Rarely"
+452,1,0.5,"Indonesia",47,"Female","Rural","College/University","Refused to answer"
+453,1,0.2,"Indonesia",41,"Female","Rural","College/University","Sometimes"
+454,1,0.4,"Indonesia",28,"Female","Rural","Secondary (usually until 18 years old)","Rarely"
+455,0,0.8,"Indonesia",37,"Female","Rural","Secondary (usually until 18 years old)","Rarely"
+456,1,1,"The Philippines",30,"Female","Rural","Secondary (usually until 18 years old)","Yes, all of the time"
+457,0,1,"The Philippines",30,"Female","Rural","College/University","Never"
+458,1,0.6,"The Philippines",29,"Female","Rural","Secondary (usually until 18 years old)","Yes, all of the time"
+459,0,1,"The Philippines",28,"Female","Rural","College/University","Rarely"
+460,1,1,"The Philippines",48,"Female","Urban","Secondary (usually until 18 years old)","Never"
+461,1,1,"The Philippines",47,"Female","Rural","College/University","Never"
+462,0,0.6,"The Philippines",49,"Female","Urban","Secondary (usually until 18 years old)","Never"
+463,0,0.2,"The Philippines",39,"Female","Urban","College/University","Never"
+464,1,1,"Indonesia",29,"Female","Rural","Secondary (usually until 18 years old)","Never"
+465,0,1,"Indonesia",29,"Female","Rural","Secondary (usually until 18 years old)","Never"
+466,1,0.8,"Indonesia",26,"Female","Urban","Secondary (usually until 18 years old)","Never"
+467,0,0.8,"Indonesia",32,"Female","Rural","Secondary (usually until 18 years old)","Never"
+468,1,1,"Indonesia",30,"Female","Rural","Secondary (usually until 18 years old)","Rarely"
+469,0,0.8,"Indonesia",23,"Female","Urban","Secondary (usually until 18 years old)","Rarely"
+470,0,1,"Indonesia",43,"Female","Rural","Elementary (usually until 12 years old)","Never"
+471,1,1,"The Philippines",43,"Female","Urban","Secondary (usually until 18 years old)","Rarely"
+472,1,1,"The Philippines",23,"Female","Urban","College/University","Never"
+473,1,0.8,"The Philippines",33,"Female","Urban","College/University","Rarely"
+474,0,1,"The Philippines",40,"Female","Urban","College/University","Yes, all of the time"
+475,1,1,"The Philippines",38,"Female","Urban","College/University","Never"
+476,0,1,"Nepal",34,"Female","Rural","No completed formal education","Never"
+477,1,1,"Indonesia",39,"Female","Urban","Secondary (usually until 18 years old)","Rarely"
+478,0,1,"Indonesia",40,"Female","Rural","Elementary (usually until 12 years old)","Rarely"
+479,1,0.6,"Indonesia",40,"Female","Rural","Secondary (usually until 18 years old)","Never"
+480,1,1,"Indonesia",24,"Female","Rural","Refused to answer","Never"
+481,1,0.8,"Indonesia",43,"Female","Urban","Secondary (usually until 18 years old)","Never"
+482,0,0.8,"Indonesia",39,"Female","Rural","Secondary (usually until 18 years old)","Never"
+483,1,0.6,"Indonesia",50,"Female","Rural","Secondary (usually until 18 years old)","Never"
+484,1,1,"Indonesia",30,"Female","Rural","Secondary (usually until 18 years old)","Yes, all of the time"
+485,0,0.75,"Indonesia",30,"Female","Rural","Elementary (usually until 12 years old)","Never"
+486,0,0.8,"Indonesia",24,"Female","Rural","Elementary (usually until 12 years old)","Never"
+487,0,0.8,"Indonesia",34,"Female","Rural","Secondary (usually until 18 years old)","Never"
+488,1,1,"Indonesia",41,"Female","Rural","Elementary (usually until 12 years old)","Never"
+489,1,1,"The Philippines",37,"Female","Rural","College/University","Never"
+490,0,1,"The Philippines",38,"Female","Rural","College/University","Sometimes"
+491,1,0.8,"The Philippines",29,"Female","Rural","Secondary (usually until 18 years old)","Rarely"
+492,1,0.75,"The Philippines",32,"Female","Rural","College/University","Sometimes"
+493,1,0.2,"The Philippines",35,"Female","Rural","College/University","Rarely"
+494,1,0.8,"Indonesia",35,"Female","Rural","Secondary (usually until 18 years old)","Never"
+495,1,0.75,"Indonesia",42,"Female","Rural","Secondary (usually until 18 years old)","Never"
+496,1,1,"Indonesia",39,"Female","Rural","Secondary (usually until 18 years old)","Never"
+497,1,1,"Indonesia",47,"Female","Urban","Elementary (usually until 12 years old)","Never"
+498,1,0.8,"Indonesia",42,"Female","Urban","Secondary (usually until 18 years old)","Yes, all of the time"
+499,0,1,"Indonesia",42,"Female","Rural","Secondary (usually until 18 years old)","Never"
+500,0,0.6,"Indonesia",50,"Female","Urban","Elementary (usually until 12 years old)","Never"
+501,1,1,"Indonesia",42,"Female","Rural","Elementary (usually until 12 years old)","Never"
+502,1,1,"The Philippines",49,"Female","Urban","College/University","Rarely"
+503,0,1,"The Philippines",28,"Female","Urban","Secondary (usually until 18 years old)","Refused to answer"
+504,0,0.6,"The Philippines",28,"Female","Rural","Secondary (usually until 18 years old)","Never"
+505,1,0.8,"Indonesia",30,"Female","Rural","College/University","Never"
+506,0,0.8,"Indonesia",35,"Female","Rural","Secondary (usually until 18 years old)","Often"
+507,0,0.8,"Indonesia",43,"Female","Rural","Secondary (usually until 18 years old)","Rarely"
+508,0,0.8,"Indonesia",42,"Female","Rural","Secondary (usually until 18 years old)","Sometimes"
+509,0,1,"The Philippines",28,"Female","Urban","Secondary (usually until 18 years old)","Never"
+510,1,0.8,"The Philippines",28,"Female","Rural","Elementary (usually until 12 years old)","Never"
+511,0,1,"The Philippines",37,"Female","Rural","College/University","Never"
+512,0,0.75,"The Philippines",46,"Female","Rural","Elementary (usually until 12 years old)","Rarely"
+513,0,0.4,"The Philippines",34,"Female","Urban","Secondary (usually until 18 years old)","Never"
+514,1,0.5,"Indonesia",21,"Female","Rural","Secondary (usually until 18 years old)","Yes, all of the time"
+515,0,0.8,"Indonesia",27,"Female","Urban","Elementary (usually until 12 years old)","Never"
+516,0,0.4,"Indonesia",64,"Female","Urban","Secondary (usually until 18 years old)","Never"
+517,0,1,"Indonesia",23,"Female","Rural","Secondary (usually until 18 years old)","Never"
+518,1,1,"Indonesia",39,"Female","Rural","Secondary (usually until 18 years old)","Never"
+519,0,0.8,"Indonesia",35,"Female","Rural","Secondary (usually until 18 years old)","Never"
+520,1,0.5,"Indonesia",30,"Female","Rural","Secondary (usually until 18 years old)","Yes, all of the time"
+521,1,0.25,"Indonesia",34,"Female","Rural","Secondary (usually until 18 years old)","Never"
+522,1,0.75,"Indonesia",33,"Female","Rural","Elementary (usually until 12 years old)","Never"
+523,0,1,"Indonesia",37,"Female","Urban","Elementary (usually until 12 years old)","Never"
+524,1,1,"Indonesia",39,"Female","Rural","Secondary (usually until 18 years old)","Never"
+525,0,0.75,"The Philippines",49,"Female","Rural","Secondary (usually until 18 years old)","Never"
+526,1,0.75,"The Philippines",36,"Female","Urban","College/University","Never"
+527,0,0.4,"The Philippines",37,"Female","Urban","College/University","Never"
+528,0,0.8,"The Philippines",43,"Female","Rural","College/University","Refused to answer"
+529,0,1,"The Philippines",39,"Female","Urban","Secondary (usually until 18 years old)","Yes, all of the time"
+530,0,1,"The Philippines",39,"Female","Rural","Secondary (usually until 18 years old)","Yes, all of the time"
+531,0,0.6,"The Philippines",41,"Female","Rural","College/University","Yes, all of the time"
+532,1,1,"The Philippines",35,"Female","Rural","College/University","Yes, all of the time"
+533,1,1,"The Philippines",32,"Female","Rural","Secondary (usually until 18 years old)","Yes, all of the time"
+534,0,0.75,"The Philippines",52,"Female","Urban","College/University","Refused to answer"
+535,1,1,"The Philippines",38,"Female","Urban","College/University","Refused to answer"
+536,0,1,"The Philippines",29,"Female","Rural","Secondary (usually until 18 years old)","Never"
+537,1,1,"The Philippines",36,"Female","Rural","College/University","Never"
+538,1,0.8,"The Philippines",32,"Female","Urban","College/University","Yes, all of the time"
+539,0,0.8,"The Philippines",40,"Female","Urban","Secondary (usually until 18 years old)","Rarely"
+540,0,0.6,"The Philippines",36,"Female","Urban","Postgraduate studies (Masters or Phd)","Often"
+541,0,0.8,"The Philippines",42,"Female","Urban","Secondary (usually until 18 years old)","Yes, all of the time"
+542,0,0.6,"The Philippines",30,"Female","Rural","Secondary (usually until 18 years old)","Yes, all of the time"
+543,1,0.75,"The Philippines",43,"Female","Rural","Secondary (usually until 18 years old)","Sometimes"
+544,0,1,"The Philippines",50,"Female","Urban","Secondary (usually until 18 years old)","Never"
+545,0,0.6,"The Philippines",42,"Female","Urban","College/University","Never"
+546,1,0.6,"The Philippines",40,"Female","Urban","College/University","Yes, all of the time"
+547,0,0.8,"The Philippines",25,"Female","Urban","College/University","Never"
+548,0,0.8,"The Philippines",46,"Female","Urban","College/University","Never"
+549,1,1,"The Philippines",46,"Female","Urban","Secondary (usually until 18 years old)","Never"
+550,1,1,"The Philippines",40,"Female","Rural","Refused to answer","Never"
+551,0,1,"The Philippines",40,"Female","Rural","College/University","Never"
+552,1,0.8,"The Philippines",42,"Female","Rural","Secondary (usually until 18 years old)","Sometimes"
+553,0,1,"The Philippines",49,"Female","Rural","College/University","Sometimes"
+554,1,0.8,"The Philippines",51,"Female","Rural","College/University","Never"
+555,0,1,"The Philippines",42,"Female","Urban","College/University","Never"
+556,0,0.8,"The Philippines",32,"Female","Urban","College/University","Never"
+557,1,0.75,"The Philippines",36,"Female","Rural","Secondary (usually until 18 years old)","Sometimes"
+558,1,1,"Nepal",48,"Female","Urban","Elementary (usually until 12 years old)","Never"
+559,0,0.6,"The Philippines",52,"Female","Rural","College/University","Never"
+560,1,1,"The Philippines",42,"Female","Rural","College/University","Yes, all of the time"
+561,0,NA,"The Philippines",39,"Female","Urban","College/University","Refused to answer"
+562,0,0.2,"The Philippines",39,"Female","Rural","College/University","Rarely"
+563,0,0.8,"The Philippines",38,"Female","Rural","Secondary (usually until 18 years old)","Sometimes"
+564,0,0.5,"The Philippines",40,"Female","Rural","Secondary (usually until 18 years old)","Sometimes"
+565,0,1,"The Philippines",35,"Female","Rural","No completed formal education","Never"
+566,0,1,"The Philippines",37,"Female","Rural","College/University","Never"
+567,0,1,"The Philippines",36,"Female","Rural","College/University","Yes, all of the time"
+568,1,1,"The Philippines",44,"Female","Urban","Secondary (usually until 18 years old)","Never"
+569,0,0.8,"The Philippines",33,"Female","Rural","Secondary (usually until 18 years old)","Sometimes"
+570,0,0.6,"The Philippines",36,"Female","Urban","Secondary (usually until 18 years old)","Sometimes"
+571,0,0.2,"The Philippines",28,"Female","Rural","Secondary (usually until 18 years old)","Often"
+572,1,0.8,"The Philippines",28,"Female","Rural","College/University","Never"
+573,0,1,"The Philippines",27,"Female","Rural","Secondary (usually until 18 years old)","Never"
+574,0,0.6,"The Philippines",27,"Female","Rural","Secondary (usually until 18 years old)","Often"
+575,1,1,"Nepal",32,"Female","Rural","Elementary (usually until 12 years old)","Never"
+576,1,1,"Nepal",37,"Female","Rural","No completed formal education","Never"
+577,0,1,"Indonesia",30,"Female","Urban","Secondary (usually until 18 years old)","Never"
+578,0,0.25,"Indonesia",31,"Female","Rural","Secondary (usually until 18 years old)","Never"
+579,0,1,"Indonesia",37,"Female","Rural","Secondary (usually until 18 years old)","Never"
+580,1,1,"Indonesia",30,"Female","Rural","Elementary (usually until 12 years old)","Never"
+581,0,1,"Indonesia",30,"Female","Rural","Elementary (usually until 12 years old)","Never"
+582,1,1,"Indonesia",28,"Female","Rural","Elementary (usually until 12 years old)","Never"
+583,1,NA,"Indonesia",48,"Female","Rural","Elementary (usually until 12 years old)","Never"
+584,0,0.8,"Indonesia",27,"Female","Rural","Elementary (usually until 12 years old)","Sometimes"
+585,0,0.8,"Indonesia",30,"Female","Rural","Elementary (usually until 12 years old)","Never"
+586,1,0.8,"Indonesia",30,"Female","Rural","Secondary (usually until 18 years old)","Rarely"
+587,0,1,"Indonesia",40,"Female","Rural","Elementary (usually until 12 years old)","Never"
+588,0,0.8,"Indonesia",27,"Female","Rural","Secondary (usually until 18 years old)","Rarely"
+589,1,0.6,"Indonesia",26,"Female","Rural","Secondary (usually until 18 years old)","Never"
+590,0,1,"Indonesia",24,"Female","Urban","Secondary (usually until 18 years old)","Never"
+591,0,0.8,"Indonesia",36,"Female","Urban","Secondary (usually until 18 years old)","Never"
+592,0,1,"Indonesia",40,"Female","Rural","Secondary (usually until 18 years old)","Never"
+593,0,0.8,"Indonesia",32,"Female","Rural","Secondary (usually until 18 years old)","Never"
+594,1,1,"Indonesia",36,"Female","Rural","Secondary (usually until 18 years old)","Never"
+595,1,0.8,"Indonesia",29,"Female","Rural","Secondary (usually until 18 years old)","Rarely"
+596,1,0.8,"Indonesia",38,"Female","Urban","Secondary (usually until 18 years old)","Never"
+597,1,1,"Indonesia",40,"Female","Urban","Secondary (usually until 18 years old)","Never"
+598,0,0.6,"Indonesia",27,"Female","Urban","Secondary (usually until 18 years old)","Never"
+599,0,1,"Indonesia",30,"Female","Urban","College/University","Rarely"
+600,1,0.666666666666667,"Indonesia",42,"Female","Rural","Secondary (usually until 18 years old)","Never"
+601,1,0.4,"Indonesia",24,"Female","Urban","College/University","Sometimes"
+602,0,0.25,"Indonesia",35,"Female","Rural","Secondary (usually until 18 years old)","Rarely"
+603,1,0.8,"Indonesia",26,"Female","Rural","Secondary (usually until 18 years old)","Never"
+604,1,0.6,"Indonesia",32,"Female","Rural","Secondary (usually until 18 years old)","Rarely"
+605,0,0.6,"Indonesia",27,"Female","Rural","Secondary (usually until 18 years old)","Rarely"
+606,0,0,"Indonesia",31,"Female","Rural","Postgraduate studies (Masters or Phd)","Rarely"
+607,0,1,"Indonesia",41,"Female","Rural","College/University","Never"
+608,1,1,"Indonesia",32,"Female","Urban","Secondary (usually until 18 years old)","Never"
+609,0,0.75,"Indonesia",32,"Female","Rural","College/University","Often"
+610,1,0.6,"Indonesia",34,"Female","Rural","Secondary (usually until 18 years old)","Never"
+611,1,0.8,"Indonesia",49,"Female","Urban","Elementary (usually until 12 years old)","Never"
+612,0,0,"Indonesia",46,"Female","Rural","Elementary (usually until 12 years old)","Never"
+613,0,0.25,"Indonesia",28,"Female","Rural","Secondary (usually until 18 years old)","Sometimes"
+614,0,1,"Nepal",38,"Female","Rural","No completed formal education","Never"
+615,0,1,"Nepal",34,"Female","Rural","No completed formal education","Never"
+616,0,1,"Nepal",38,"Female","Rural","No completed formal education","Never"
+617,1,0.4,"Indonesia",29,"Female","Urban","Secondary (usually until 18 years old)","Sometimes"
+618,1,0.8,"Indonesia",36,"Female","Urban","College/University","Sometimes"
+619,0,0.8,"Indonesia",36,"Female","Urban","College/University","Sometimes"
+620,0,0.8,"Indonesia",36,"Female","Urban","Secondary (usually until 18 years old)","Never"
+621,0,1,"Indonesia",35,"Female","Rural","Secondary (usually until 18 years old)","Never"
+622,1,1,"Indonesia",32,"Female","Rural","Secondary (usually until 18 years old)","Never"
+623,1,0.6,"Indonesia",30,"Female","Urban","Secondary (usually until 18 years old)","Never"
+624,0,1,"Indonesia",24,"Female","Rural","Secondary (usually until 18 years old)","Never"
+625,0,0.75,"The Philippines",33,"Female","Rural","Secondary (usually until 18 years old)","Sometimes"
+626,1,0.666666666666667,"Indonesia",46,"Female","Rural","Secondary (usually until 18 years old)","Rarely"
+627,0,0.666666666666667,"Indonesia",43,"Female","Rural","Secondary (usually until 18 years old)","Never"
+628,0,0.666666666666667,"Indonesia",35,"Female","Rural","Secondary (usually until 18 years old)","Never"
+629,1,0.75,"Indonesia",34,"Female","Rural","Secondary (usually until 18 years old)","Never"
+630,0,0.8,"Indonesia",42,"Female","Rural","Secondary (usually until 18 years old)","Never"
+631,1,1,"Indonesia",38,"Female","Rural","Secondary (usually until 18 years old)","Never"
+632,0,1,"Indonesia",30,"Female","Rural","Secondary (usually until 18 years old)","Never"
+633,1,1,"Indonesia",29,"Female","Urban","Elementary (usually until 12 years old)","Never"
+634,0,1,"Indonesia",35,"Female","Rural","Elementary (usually until 12 years old)","Rarely"
+635,0,1,"Indonesia",38,"Female","Rural","Elementary (usually until 12 years old)","Sometimes"
+636,1,1,"Indonesia",40,"Female","Rural","Secondary (usually until 18 years old)","Never"
+637,0,0.75,"Indonesia",30,"Female","Refused to answer","No completed formal education","Never"
+638,1,0.8,"Indonesia",28,"Female","Rural","Secondary (usually until 18 years old)","Never"
+639,0,0.8,"Indonesia",32,"Female","Rural","Secondary (usually until 18 years old)","Rarely"
+640,0,0.75,"Indonesia",32,"Female","Rural","Secondary (usually until 18 years old)","Never"
+641,0,1,"The Philippines",37,"Female","Rural","Secondary (usually until 18 years old)","Never"
+642,0,1,"The Philippines",43,"Female","Rural","Elementary (usually until 12 years old)","Never"
+643,1,0.6,"The Philippines",42,"Female","Urban","College/University","Sometimes"
+644,0,1,"The Philippines",36,"Female","Rural","Secondary (usually until 18 years old)","Never"
+645,0,1,"Indonesia",39,"Female","Rural","Elementary (usually until 12 years old)","Rarely"
+646,0,1,"Indonesia",34,"Female","Urban","Secondary (usually until 18 years old)","Never"
+647,0,0.75,"The Philippines",42,"Female","Rural","College/University","Never"
+648,0,0,"The Philippines",44,"Female","Urban","College/University","Never"
+649,0,1,"The Philippines",37,"Female","Urban","Secondary (usually until 18 years old)","Rarely"
+650,0,0.75,"The Philippines",29,"Female","Rural","College/University","Never"
+651,1,0.8,"The Philippines",42,"Female","Rural","College/University","Never"
+652,0,0.75,"The Philippines",36,"Female","Rural","Secondary (usually until 18 years old)","Never"
+653,0,0.8,"The Philippines",40,"Female","Rural","College/University","Never"
+654,0,1,"The Philippines",39,"Female","Rural","College/University","Never"
+655,1,1,"Indonesia",38,"Female","Rural","Secondary (usually until 18 years old)","Never"
+656,1,1,"Indonesia",35,"Female","Rural","Elementary (usually until 12 years old)","Never"
+657,1,1,"Indonesia",40,"Female","Rural","Secondary (usually until 18 years old)","Sometimes"
+658,0,0.2,"Indonesia",41,"Female","Rural","Secondary (usually until 18 years old)","Sometimes"
+659,0,0.2,"Indonesia",47,"Female","Rural","Secondary (usually until 18 years old)","Never"
+660,0,0.2,"Indonesia",40,"Female","Urban","College/University","Never"
+661,0,1,"The Philippines",48,"Female","Rural","Secondary (usually until 18 years old)","Never"
+662,0,1,"The Philippines",37,"Female","Urban","College/University","Never"
+663,1,1,"Indonesia",24,"Female","Rural","Elementary (usually until 12 years old)","Never"
+664,0,0.8,"Indonesia",41,"Female","Rural","Secondary (usually until 18 years old)","Sometimes"
+665,0,0.75,"Indonesia",28,"Female","Urban","Secondary (usually until 18 years old)","Sometimes"
+666,1,0.4,"The Philippines",43,"Female","Rural","Secondary (usually until 18 years old)","Never"
+667,0,1,"The Philippines",33,"Female","Rural","Secondary (usually until 18 years old)","Never"
+668,0,0.4,"Indonesia",30,"Female","Urban","Elementary (usually until 12 years old)","Never"
+669,0,NA,"Indonesia",29,"Female","Urban","Secondary (usually until 18 years old)","Often"
+670,0,0.6,"The Philippines",33,"Female","Rural","Secondary (usually until 18 years old)","Never"
+671,0,0.6,"The Philippines",29,"Female","Rural","Secondary (usually until 18 years old)","Yes, all of the time"
+672,1,0.8,"Indonesia",28,"Female","Rural","Secondary (usually until 18 years old)","Yes, all of the time"
+673,0,0.6,"Indonesia",22,"Female","Rural","No completed formal education","Never"
+674,0,1,"Indonesia",35,"Female","Urban","No completed formal education","Never"
+675,1,1,"The Philippines",37,"Female","Rural","College/University","Often"
+676,0,1,"The Philippines",41,"Female","Rural","Secondary (usually until 18 years old)","Yes, all of the time"
+677,0,1,"Indonesia",34,"Female","Urban","Secondary (usually until 18 years old)","Never"
+678,0,1,"Indonesia",31,"Female","Urban","College/University","Often"
+679,0,0.4,"The Philippines",22,"Female","Rural","College/University","Never"
+680,0,0.4,"Indonesia",25,"Female","Urban","College/University","Sometimes"
+681,0,0.6,"Indonesia",30,"Female","Urban","College/University","Never"
+682,0,1,"The Philippines",43,"Female","Rural","Refused to answer","Never"
+683,0,1,"The Philippines",45,"Female","Rural","College/University","Never"
+684,0,1,"Indonesia",39,"Female","Rural","College/University","Sometimes"
+685,1,0.75,"Indonesia",33,"Female","Rural","Elementary (usually until 12 years old)","Often"
+686,0,1,"Indonesia",41,"Female","Urban","Secondary (usually until 18 years old)","Sometimes"
+687,1,1,"Indonesia",30,"Female","Rural","Secondary (usually until 18 years old)","Never"
+688,1,1,"Indonesia",36,"Female","Rural","Secondary (usually until 18 years old)","Never"
+689,0,1,"Indonesia",32,"Female","Rural","Secondary (usually until 18 years old)","Never"
+690,0,0.8,"Indonesia",32,"Female","Rural","Secondary (usually until 18 years old)","Never"
+691,0,1,"Indonesia",38,"Female","Rural","Secondary (usually until 18 years old)","Never"
+692,1,0.8,"The Philippines",37,"Female","Urban","College/University","Never"
+693,0,1,"The Philippines",28,"Female","Rural","College/University","Never"
+694,0,0.6,"Indonesia",34,"Female","Rural","Elementary (usually until 12 years old)","Yes, all of the time"
+695,0,0,"Indonesia",30,"Female","Rural","Secondary (usually until 18 years old)","Never"

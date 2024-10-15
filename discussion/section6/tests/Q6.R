@@ -6,14 +6,6 @@ test = list(
       name = NA,
       points = 0.0,
       code = {
-        is.data.frame(avg_knowledge.sol)
-      }
-    ),
-    ottr::TestCase$new(
-      hidden = FALSE,
-      name = NA,
-      points = 0.0,
-      code = {
         # YOUR CODE HERE
         # make accodomating to df or not df
         if (is.data.frame(avg_knowledge)){

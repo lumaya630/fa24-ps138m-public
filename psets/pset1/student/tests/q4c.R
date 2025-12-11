@@ -6,31 +6,31 @@ test = list(
       name = NA,
       points = 1,
       code = {
-        # TEST 1: SUBSET
+        # check columns equal
         df.soln <- ctdc %>%
                 filter((isForcedLabour >0 | isSexualExploit > 0 | isOtherExploit >0)) %>% 
-                select(starts_with("recruiter"))
+                select(starts_with("means"))
 
-        question.correct <- all.equal(df.soln, recruiter.df)
-        testthat::expect_true(question.correct, 
-                             info = "Your recruiter_ht dataframe doesnt seem right.")
+        # get summary
+        summary.soln <- df.soln %>% summarise( 
+            meansDebtBondageEarnings = (mean(meansDebtBondageEarnings, na.rm = T)), 
+            meansThreats = mean(meansThreats, na.rm = T), 
+            meansAbusePsyPhySex = (mean(meansAbusePsyPhySex	, na.rm = T)))
+
+        # check column order
+        question.correct <- all.equal(colnames(summary.soln), colnames(means.summary))
+        testthat::expect_true(question.correct,
+                            info = "Check the number of columns, and their order.")
       }
     ),
     ottr::TestCase$new(
       hidden = FALSE,
       name = NA,
-      points = 0,
+      points = 1,
       code = {
-        # TEST 2: Summary columns
-        summary.soln <- recruiter.df %>% summarise(
-            recruiterRelationIntimatePartner = (mean(recruiterRelationIntimatePartner, na.rm = T)), 
-                                   recruiterRelationFriend = mean(recruiterRelationFriend, na.rm = T), 
-                                    recruiterRelationFamily = mean(recruiterRelationFamily, na.rm = T), 
-                                   recruiterRelationOther = mean(recruiterRelationOther, na.rm = T))  
-
-        question.correct <- all.equal(colnames(summary.soln), colnames(recruiter.summary))
-        testthat::expect_true(question.correct,
-                             info = "Did you maintain the order of the columns? It should be Intimate partners, friend, family, then other.")
+        # check values equal
+        question.correct <- all.equal(summary.soln, means.summary)
+        testthat::expect_true(question.correct)
       }
     )
   )

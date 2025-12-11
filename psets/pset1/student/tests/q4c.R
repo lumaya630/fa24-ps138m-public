@@ -11,7 +11,7 @@ test = list(
                 filter((isForcedLabour >0 | isSexualExploit > 0 | isOtherExploit >0)) %>% 
                 select(starts_with("recruiter"))
 
-        question.correct <- all.equal(df.soln, recruiter_ht)
+        question.correct <- all.equal(df.soln, recruiter.df)
         testthat::expect_true(question.correct, 
                              info = "Your recruiter_ht dataframe doesnt seem right.")
       }
@@ -22,13 +22,13 @@ test = list(
       points = 0,
       code = {
         # TEST 2: Summary columns
-        summary.soln <- recruiter_ht %>% summarise(
+        summary.soln <- recruiter.df %>% summarise(
             recruiterRelationIntimatePartner = (mean(recruiterRelationIntimatePartner, na.rm = T)), 
                                    recruiterRelationFriend = mean(recruiterRelationFriend, na.rm = T), 
                                     recruiterRelationFamily = mean(recruiterRelationFamily, na.rm = T), 
                                    recruiterRelationOther = mean(recruiterRelationOther, na.rm = T))  
 
-        question.correct <- all.equal(colnames(summary.soln), colnames(recruiter_summary))
+        question.correct <- all.equal(colnames(summary.soln), colnames(recruiter.summary))
         testthat::expect_true(question.correct,
                              info = "Did you maintain the order of the columns? It should be Intimate partners, friend, family, then other.")
       }

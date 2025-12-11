@@ -6,11 +6,9 @@ test = list(
       name = NA,
       points = 2.0,
       code = {
-        df.soln <- ctdc %>%
-                filter((isForcedLabour >0 | isSexualExploit > 0 | isOtherExploit >0)) %>% 
-                select(starts_with("means"))
+        df.soln <- victims.df %>% select(meansThreats, meansDebtBondageEarnings, meansAbusePsyPhySex) 
 
-        question.correct <- all.equal(df.soln, means_ht)
+        question.correct <- all.equal(df.soln, means.df )
         testthat::expect_true(question.correct)
       }
     )

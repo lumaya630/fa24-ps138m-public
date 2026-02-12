@@ -4,7 +4,7 @@ test = list(
     ottr::TestCase$new(
       hidden = FALSE,
       name = NA,
-      points = 3.0,
+      points = 2,
       code = {
         df_summary.soln <- df %>%
           group_by(System) %>%

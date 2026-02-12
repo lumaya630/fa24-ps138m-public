@@ -4,7 +4,7 @@ test = list(
     ottr::TestCase$new(
       hidden = FALSE,
       name = NA,
-      points = 2.0,
+      points = 1,
       code = {
         df$OptIn_System_Dummy_Soln <- ifelse(df$System == "In", 1, 0) # SOLUTION
 

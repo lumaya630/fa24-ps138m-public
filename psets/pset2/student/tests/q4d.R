@@ -4,7 +4,7 @@ test = list(
     ottr::TestCase$new(
       hidden = FALSE,
       name = NA,
-      points = 3.0,
+      points = 2,
       code = {
         model.soln <- lm(Total ~ OptIn_System_Dummy, data = df) # SOLUTION
         question.correct <-  all.equal(model, model.soln)

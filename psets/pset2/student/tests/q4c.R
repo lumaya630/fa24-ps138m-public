@@ -4,7 +4,7 @@ test = list(
     ottr::TestCase$new(
       hidden = FALSE,
       name = NA,
-      points = 2.0,
+      points = 2,
       code = {
         correlation.soln <- cor(df$OptIn_System_Dummy, df$Total, use = "complete.obs")
         question.correct <-  all.equal(correlation, correlation.soln)

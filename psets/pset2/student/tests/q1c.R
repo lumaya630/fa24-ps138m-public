@@ -6,7 +6,7 @@ test = list(
       name = NA,
       points = 0,
       code = {
-        format.correct <- is.numeric(hs_grad_income)
+        format.correct <- is.numeric(sextraffickingrate)
         testthat::expect_true(format.correct,
                              info = "Your answer is not an integer")
       }
